@@ -17,8 +17,7 @@ collections:
     output: true
     permalink: /:title:output_ext
   lists:
-    output: false
-    permalink: /:title:output_ext
+    output: true
     order:
       - values.html
       - rationality.html
