@@ -17,19 +17,4 @@ collections:
     output: true
     permalink: /:title:output_ext
   lists:
-    output: true
-    order:
-      - values.html
-      - rationality.html
-      - communication.html
-      - moral-circle.html
-      - humans.html
-      - animals.html
-      - technology.html
-      - ontology.html
-      - life.html
-      - consciousness.html
-      - free-will.html
-      - death.html
-      - pessimism.html
-      - russia.html
+    output: false

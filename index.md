@@ -26,28 +26,17 @@ nav_id: 0
 
 ---
 
-{% for list in site.lists %}
+{% for list in lists %}
   <h1 id="{{ list.mark }}">{{ list.title }}</h1>
   <ul>{% for node in list.nodes %}
     <li>{% include post-entry-by-id.html id=node %}</li>
   {% endfor %}
-  
   {% for sublist in list.sublists %}
     <li>{% if sublist.url %}<h2><a href="#{{ sublist.url }}">{{ sublist.title }}</a></h2>{% else %}<h2 id="{{ sublist.mark }}">{{ sublist.title }}</h2>{% endif %}
     <ul>{% for node in sublist.nodes %}
       <li>{% include post-entry-by-id.html id=node %}</li>
-    {% endfor %}
-	
-	{% for subsublist in sublist.sublists %}
-      <li><h3 id="{{ subsublist.mark }}">{{ subsublist.title }}</h3>
-      <ul>{% for node in subsublist.nodes %}
-        <li>{% include post-entry-by-id.html id=node %}</li>
-      {% endfor %}</ul></li>
-    {% endfor %}
-	
-	</ul></li>
+    {% endfor %}</ul></li>
   {% endfor %}
-  
   </ul>
 {% endfor %}
 
