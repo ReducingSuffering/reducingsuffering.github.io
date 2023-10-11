@@ -9,16 +9,15 @@ nav_id: 0
 
 Ниже находится путеводитель по всем нашим материалам. Также для поиска вы можете воспользоваться [блогом](blog.html) и [тегами](tags.html). За новостями проекта можно следить в соцсетях <a href="https://vk.com/reducing_suffering">ВКонтакте</a> и <a href="https://t.me/reducing_suffering">Telegram</a>.
 
+{% assign lists = site.lists | sort: "order" %}
+
 <div class="contents">
   <h2>Содержание</h2>
   <ul>
-    {% for list in site.lists %}
+    {% for list in lists %}
     <li><a href="#{{ list.mark }}">{{ list.title }}</a>
       <ul class="ulcirc">{% for sublist in list.sublists %}
         <li><a href="#{{ sublist.mark }}{{ sublist.url }}">{{ sublist.title }}</a>
-          <ul class="ulcirc">{% for subsublist in sublist.sublists %}
-            <li><a href="#{{ subsublist.mark }}{{ subsublist.url }}">{{ subsublist.title }}</a></li>
-          {% endfor %}</ul>
 		</li>
       {% endfor %}</ul>
 	</li>{% endfor %}
