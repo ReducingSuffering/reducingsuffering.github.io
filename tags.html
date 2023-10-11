@@ -14,7 +14,7 @@ nav_id: 2
     <a name="{{ tag[0] }}"></a>
     <h3><b>{{ tag[0] }}</b></h3><ul>
 	{% for post in tag[1] %}
-	  <li>{% include post-entry.html title=post.title authors=post.authors source=post.source %}</li>
+	  <li>{% include post-entry.html post=post %}</li>
 	{% endfor %}</ul>
   {% endfor %}
 </div>

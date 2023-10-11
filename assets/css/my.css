@@ -128,9 +128,15 @@ ul {
   list-style-type: circle;
 }
 
-/* contents taken from Brian Tomasik's stylesheet */
 .contents {
   background-color: rgb(247, 247, 250);
   padding: 1% 3% 1% 3%;
   border: 0.05em solid rgb(140, 140, 140);
+}
+
+.navigation, 
+.navigation a {
+  text-align: center;
+  font-size:18px;
+  color: #505050;
 }

@@ -1,7 +1,6 @@
 ---
 layout: blog
 title: "Reducing Suffering"
-nav_id: 0
 ---
 **(Это тестовая версия сайта!)**
 
@@ -39,8 +38,3 @@ nav_id: 0
   {% endfor %}
   </ul>
 {% endfor %}
-
----
-
-[Все в обратном хронологическом порядке](blog.html)<br>
-[Поиск по темам](tags.html)
