@@ -8,6 +8,13 @@ nav_id: 1
 
 <div class="posts">
 {% for post in site.posts %}
-  {% include post-entry.html title=post.title authors=post.authors source=post.source date=post.date tags=post.tags %}
+  <div class="post-in-frame">
+    {% include post-head.html post=post with_link=true %}
+    <div class="post-content">
+      {{ post.content }}
+    </div>
+    {% include post-links.html post=post %}
+    {% include post-bottom.html post=post %}
+  </div>
 {% endfor %}
 </div>

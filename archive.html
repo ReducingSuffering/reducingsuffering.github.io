@@ -4,9 +4,10 @@ title: "Reducing Suffering: блог"
 nav_id: 1
 ---
 За новостями проекта можно следить в соцсетях: <a href="https://vk.com/reducing_suffering">ВКонтакте</a>, <a href="https://t.me/reducing_suffering">Telegram</a>.<br>
+<hr>
 
 <div class="posts">
 {% for post in site.posts %}
-  {% include post-entry.html title=post.title authors=post.authors source=post.source date=post.date tags=post.tags %}
+  {% include post-entry.html post=post %}
 {% endfor %}
 </div>

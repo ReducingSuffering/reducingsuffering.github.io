@@ -1,0 +1,32 @@
+{% if include.post.link_to %}{% unless include.post.included %}
+<div>
+  {% if include.post.relative %}
+  <a href="{{ include.post.link_to | relative_url }}">
+  {% else %}
+  <a href="{{ include.post.link_to }}">
+  {% endif %}
+    <div class="container">
+      <div style="font-size: 28px; font-weight: bold;">{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать дальше{% endif %}<br></div>
+      {% if include.post.preview %}<img src="{% if include.post.preview_here %}{{ include.post.preview | absolute_url }}{% else %}{{ include.post.preview }}{% endif %}" style="width:100%;">{% endif %}
+    </div>
+  </a>
+</div>
+{% else %} 
+{% endunless %}
+{% endif %}
+
+{% if include.post.archive %}
+<a href="{{ include.post.archive }}">Запасная ссылка</a>
+{% endif %}
+
+{% if include.post.original %}
+<hr>
+<span class="post-tags">
+  Оригинал: <a href="{{ include.post.original }}">{{ include.post.original }}</a><br>
+  {% if include.post.license %}Лицензия: <a href="{{ include.post.license[1] }}">{{ include.post.license[0] }}</a><br>{% endif %}
+  {% if include.post.translated_by %}Перевод: {{ include.post.translated_by | join: ", " }}<br>{% endif %}
+  {% if include.post.edited_by %}Редактура: {{ include.post.edited_by | join: ", " }}<br>{% endif %}
+  {% if include.post.last_update %}Последнее обновление: {{ include.post.last_update }}<br>{% endif %}
+  {{ include.post.comment }}
+</span>
+{% endif %}

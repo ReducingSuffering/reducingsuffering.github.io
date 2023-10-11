@@ -18,8 +18,18 @@ a {
   color: #0000A7;	
 }
 
-.post {
+.post-entry {
   margin-bottom: 1em;
+}
+
+.post-content {
+  margin-bottom: 1em;
+}
+
+.post-in-frame {
+  margin-bottom: 1em;
+  padding: 1% 2% 1% 2%;
+  border: 0.05em solid rgb(140, 140, 140);
 }
 
 .page-title,

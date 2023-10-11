@@ -1,0 +1,6 @@
+{% if include.post.tags %}
+<hr>
+<span class="post-tags">
+  {% include list-of-tags.html tags=include.post.tags %}
+</span>
+{% endif %}

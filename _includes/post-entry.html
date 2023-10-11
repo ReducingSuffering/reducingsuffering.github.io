@@ -1,16 +1,16 @@
-<div class="post">
+<div class="post-entry">
   <span class="post-title">
-    <a href="{{ post.url | relative_url }}">{{ include.title }}{% if include.authors %} | {{ include.authors | join: ", " }}{% endif %}{% if include.source %} | {{ include.source }}{% endif %}</a>
+    <a href="{{ post.url | relative_url }}">{{ include.post.title }}{% if include.post.authors %} | {{ include.post.authors | join: ", " }}{% endif %}{% if include.post.source %} | {{ include.post.source }}{% endif %}</a>
   </span><br>
-  {% if include.date %}
-  <span class="post-date-inline">{{ include.date | date: "%Y.%m.%d" }}</span>&nbsp;
+  {% if include.post.date %}
+  <span class="post-date-inline">{{ include.post.date | date: "%Y.%m.%d" }}</span>&nbsp;
   {% endif %}
-  {% if include.tags %}
+  {% if include.post.tags %}
   <span class="post-tags-inline">
-    {% include list-of-tags.html tags=include.tags %}
+    {% include list-of-tags.html tags=include.post.tags %}
   </span>
   {% endif %}
 </div>
 
-{% if include.vk %}<a href="{{ include.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
-{% if include.telegram %}<a href="{{ include.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %}
+{% if include.post.vk %}<a href="{{ include.post.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
+{% if include.post.telegram %}<a href="{{ include.post.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %}
