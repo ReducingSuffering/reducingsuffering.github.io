@@ -1,19 +1,3 @@
-
-/* this is from Hyde */
-/*html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-}
-@media (min-width: 48em) {
-  html {
-    font-size: 16px;
-  }
-}
-@media (min-width: 58em) {
-  html {
-    font-size: 20px;
-  }
-} */
-
 a {
   color: #0000A7;	
 }
@@ -21,52 +5,43 @@ a {
 .post-entry {
   margin-bottom: 1em;
 }
-
 .post-content {
   margin-bottom: 1em;
 }
-
 .post-in-frame {
   margin-bottom: 1em;
   padding: 1% 2% 1% 2%;
   border: 0.05em solid rgb(180, 180, 180);
   background-color: rgb(250, 250, 250);
 }
-
 .page-title,
 .post-title {
   font-family:verdana
 }
-
 .page-title-inline,
 .post-title-inline {
   display: inline;
   margin-top: 0;
 }
-
 .post-title-colored {
   font-family:verdana;
   color: #303030;
 }
-
 .post-title-colored a {
   color: #0000A7;
 }
-
 .post-author {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #808080;
 }
-
 .post-date-inline {
   display: inline;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
-
 .post-tags {
   display: block;
   margin-top: -.5rem;
@@ -114,11 +89,6 @@ a {
   text-decoration: underline;
 }
 
-/* Body text */
-p {
-  text-align: justify;
-}
-
 ul {
   list-style-type: disc;
   margin: 0;
@@ -140,4 +110,27 @@ ul {
   text-align: center;
   font-size:18px;
   color: #505050;
+}
+
+/* Body text */
+p {
+  text-align: justify;
+}
+
+/* Quotes */
+blockquote {
+  padding: .5rem 1rem;
+  margin: .8rem 0rem;
+  margin-right: 0rem;
+  color: rgb(110, 110, 110);
+  border-left: .25rem solid #e5e5e5;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 30em) {
+  blockquote {
+    padding-right: .5rem;
+    padding-left: 1.25rem;
+  }
 }
