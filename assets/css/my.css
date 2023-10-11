@@ -29,7 +29,8 @@ a {
 .post-in-frame {
   margin-bottom: 1em;
   padding: 1% 2% 1% 2%;
-  border: 0.05em solid rgb(140, 140, 140);
+  border: 0.05em solid rgb(180, 180, 180);
+  background-color: rgb(250, 250, 250);
 }
 
 .page-title,
