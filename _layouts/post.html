@@ -1,0 +1,51 @@
+---
+layout: blog
+---
+{% unless page.show_title == false %}
+  <h2 class="post-title">{{ page.title }}</h2>
+  <div class="post-author" style="font-weight: bold">{% if page.authors and page.source %}{{ page.authors | join: ", " }} | {{ page.source }}{% else %}{{ page.authors | join: ", " }}{{ page.source }}{% endif %}</div>
+{% endunless %}
+
+<div class="post">
+  {{ content }}
+  
+  {% if page.link_to %}{% unless page.included %}
+  <div>
+    {% if page.relative %}
+    <a href="{{ page.link_to | relative_url }}">
+	{% else %}
+    <a href="{{ page.link_to }}">
+	{% endif %}
+      <div class="container">
+	    <div style="font-size: 28px; font-weight: bold;">{% if page.meta_tags contains "видео" %}смотреть{% else %}читать дальше{% endif %}<br></div>
+        {% if page.preview %}<img src="{% if page.preview_here %}{{ page.preview | absolute_url }}{% else %}{{ page.preview }}{% endif %}" style="width:100%;">{% endif %}
+      </div>
+    </a>
+  </div>
+  {% else %} 
+  {% endunless %}
+  {% endif %}
+  
+  {% if page.archive %}
+  <a href="{{ page.archive }}">Запасная ссылка</a>
+  {% endif %}
+</div>
+
+{% if page.original %}
+<hr>
+<span class="post-tags">
+  Оригинал: <a href="{{ page.original }}">{{ page.original }}</a><br>
+  {% if page.license %}Лицензия: <a href="{{ page.license[1] }}">{{ page.license[0] }}</a><br>{% endif %}
+  {% if page.translated_by %}Перевод: {{ page.translated_by | join: ", " }}<br>{% endif %}
+  {% if page.edited_by %}Редактура: {{ page.edited_by | join: ", " }}<br>{% endif %}
+  {% if page.last_update %}Последнее обновление: {{ page.last_update }}<br>{% endif %}
+  {{ page.comment }}
+</span>
+{% endif %}
+
+{% if page.tags %}
+<hr>
+<span class="post-tags">
+  {% include list-of-tags.html tags=page.tags %}
+</span>
+{% endif %}

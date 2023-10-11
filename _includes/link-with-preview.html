@@ -1,0 +1,9 @@
+<div>
+  <a href="{{ include.url }}">
+    <div class="container">
+	  <div style="font-size: 28px; font-weight: bold;">{{ include.title }}<br></div>
+      {% if include.image %}<img src="/assets/images/previews/{{ include.image }}" style="width:100%;">{% endif %}
+	  {% if include.preview %}<img src="{{ include.preview }}" style="width:100%;">{% endif %}
+    </div>
+  </a>
+</div>

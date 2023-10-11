@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{% for article in site.articles %}
+<a href="{{ article.url }}">{{ article.title }}</a><br>
+{% endfor %}
+

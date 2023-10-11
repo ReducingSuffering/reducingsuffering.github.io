@@ -1,0 +1,16 @@
+<div class="post">
+  <span class="post-title">
+    <a href="{{ post.url | relative_url }}">{{ include.title }}{% if include.authors %} | {{ include.authors | join: ", " }}{% endif %}{% if include.source %} | {{ include.source }}{% endif %}</a>
+  </span><br>
+  {% if include.date %}
+  <span class="post-date-inline">{{ include.date | date: "%Y.%m.%d" }}</span>&nbsp;
+  {% endif %}
+  {% if include.tags %}
+  <span class="post-tags-inline">
+    {% include list-of-tags.html tags=include.tags %}
+  </span>
+  {% endif %}
+</div>
+
+{% if include.vk %}<a href="{{ include.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
+{% if include.telegram %}<a href="{{ include.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %}

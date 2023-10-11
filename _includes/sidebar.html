@@ -1,0 +1,24 @@
+<!-- МОДИФИЦИРОВАНО -->
+
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<div class="sidebar" id="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <p class="lead">об уменьшении страданий на русском языке</p>
+    </div>
+
+    <nav class="sidebar-nav">
+	  <div class="sidebar-nav-item">Путеводитель</div>
+	  <div class="sidebar-nav-item">{% if page.nav_id == 1 %} <u>Блог</u> {% else %} <a href="{{ '/blog.html' | relative_url }}">Блог</a> {% endif %}</div>
+	  <div class="sidebar-nav-item">{% if page.nav_id == 2 %} <u>Темы</u> {% else %} <a href="{{ '/tags.html' | relative_url }}">Темы</a> {% endif %}</div>
+	  <div class="sidebar-nav-item">{% if page.nav_id == 3 %} <u>Описание</u> {% else %} <a href="{{ '/about.html' | relative_url }}">Описание</a> {% endif %}</div>
+	  <div class="sidebar-nav-item">{% if page.nav_id == 5 %} <u>Ссылки</u> {% else %} <a href="{{ '/links.html' | relative_url }}">Ссылки</a> {% endif %}</div>
+      ---
+	  <a class="sidebar-nav-item" href="https://vk.com/reducing_suffering">ВКонтакте</a>
+      <a class="sidebar-nav-item" href="https://t.me/reducing_suffering">Telegram</a>
+    </nav>
+  </div>
+</div>

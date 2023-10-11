@@ -1,2 +1,36 @@
-title: Reducing Suffering
-theme: Minima
+# МОДИФИЦИРОВАНО
+
+# Setup
+title:               Reducing Suffering
+url:                 reducing-suffering.github.io
+baseurl:             ''
+permalink:           /:title:output_ext
+
+# About/contact
+email:               latif.rosh@gmail.com
+
+# Custom vars
+# google_analytics
+
+collections:
+  articles:
+    output: true
+    permalink: /:title:output_ext
+  lists:
+    output: false
+    permalink: /:title:output_ext
+    order:
+      - values.html
+      - rationality.html
+      - communication.html
+      - moral-circle.html
+      - humans.html
+      - animals.html
+      - technology.html
+      - ontology.html
+      - life.html
+      - consciousness.html
+      - free-will.html
+      - death.html
+      - pessimism.html
+      - russia.html

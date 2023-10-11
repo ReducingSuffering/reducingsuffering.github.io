@@ -1,0 +1,8 @@
+<div>
+  <a href="{{ include.url | relative_url }}">
+    <div class="container">
+	  <div style="font-size: 28px;">читать дальше<br></div>
+      {% if include.image %}<img src="/assets/images/previews/{{ include.image }}" style="width:100%;">{% endif %}
+    </div>
+  </a>
+</div>
