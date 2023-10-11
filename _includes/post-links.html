@@ -6,7 +6,7 @@
   <a href="{{ include.post.link_to }}">
   {% endif %}
     <div class="container">
-      <div style="font-size: 28px; font-weight: bold;">{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать дальше{% endif %}<br></div>
+      <div style="font-size: 22px; font-weight: bold;">{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать дальше{% endif %}<br></div>
       {% if include.post.preview %}<img src="{% if include.post.preview_here %}{{ include.post.preview | absolute_url }}{% else %}{{ include.post.preview }}{% endif %}" style="width:100%;">{% endif %}
     </div>
   </a>
