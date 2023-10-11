@@ -6,11 +6,8 @@
   <span class="post-date-inline">{{ include.post.date | date: "%Y.%m.%d" }}</span>&nbsp;
   {% endif %}
   {% if include.post.tags %}
-  <span class="post-tags-inline">
-    {% include list-of-tags.html tags=include.post.tags %}
-  </span>
+  <span class="post-tags-inline">{% include list-of-tags.html tags=include.post.tags %}</span>
   {% endif %}
+  {% if include.post.vk %}<a href="{{ include.post.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
+  {% if include.post.telegram %}<a href="{{ include.post.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %}
 </div>
-
-{% if include.post.vk %}<a href="{{ include.post.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
-{% if include.post.telegram %}<a href="{{ include.post.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %}
