@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Reducing Suffering: авторы"
+title: "Reducing Suffering: авторы и источники"
 ---
 <h2>Авторы по количеству записей</h2>
 {% assign authors = site.posts | map: 'authors' | uniq %}
