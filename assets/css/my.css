@@ -119,18 +119,10 @@ p {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0rem;
-  margin-right: 0rem;
   color: rgb(110, 110, 110);
-  border-left: .25rem solid #e5e5e5;
-}
-blockquote p:last-child {
-  margin-bottom: 0;
 }
 @media (min-width: 30em) {
   blockquote {
     padding-right: .5rem;
-    padding-left: 1.25rem;
   }
 }
