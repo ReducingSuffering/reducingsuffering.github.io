@@ -1,4 +1,4 @@
 {% unless include.post.show_title == false %}
-  <h2 class="post-title">{% if include.with_link %}<a href="{{ post.url | relative_url }}">{{ include.post.title }}</a>{% else %}{{ include.post.title }}{% endif %}</h2>
-  <div class="post-author" style="font-weight: bold">{% if include.post.authors and include.post.source %}{{ include.post.authors | join: ", " }} | {{ include.post.source }}{% else %}{{ include.post.authors | join: ", " }}{{ include.post.source }}{% endif %}</div>
+<h2 class="post-title">{% if include.with_link %}<a href="{{ post.url | relative_url }}">{{ include.post.title }}</a>{% else %}{{ include.post.title }}{% endif %}</h2>
+<div class="post-author" style="font-weight: bold">{% if include.post.show_authors %}{{ include.post.authors | join: ", " }}{% endif %}{% if include.post.show_source %}{{ include.post.source }}{% endif %}</div>
 {% endunless %}

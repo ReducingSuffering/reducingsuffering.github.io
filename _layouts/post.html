@@ -1,6 +1,20 @@
 ---
 layout: blog
 ---
+{% if page.article %}
+{% assign article = site.articles | where: "name", page.article | first %}
+
+{% include article-head.html article=article post=true%}
+
+<div class="post-content">
+  {{ article.content | markdownify }}
+  {{ content }}
+</div>
+
+{% include article-links.html article=article %}
+
+{% else %}
+
 {% include post-head.html post=page %}
 
 <div class="post-content">
@@ -8,5 +22,7 @@ layout: blog
 </div>
 
 {% include post-links.html post=page %}
+
+{% endif %}
 
 {% include post-bottom.html post=page %}

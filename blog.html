@@ -8,12 +8,22 @@ title: "Reducing Suffering: блог"
 <div class="posts">
 {% for post in site.posts %}
   <div class="post-in-frame">
+    {% if post.article %}
+	{% assign article = site.articles | where: "name", post.article | first %}
+	{% include article-head.html article=article with_link=true post=true %}
+    <div class="post-content">
+      {{ article.content | markdownify }}
+	  {{ post.content }}
+    </div>
+    {% include article-links.html article=article %}
+	{% else %}
     {% include post-head.html post=post with_link=true %}
     <div class="post-content">
       {{ post.content }}
     </div>
     {% include post-links.html post=post %}
-    {% include post-bottom.html post=post %}
+	{% endif %}
+	{% include post-bottom.html post=post %}
   </div>
 {% endfor %}
 </div>

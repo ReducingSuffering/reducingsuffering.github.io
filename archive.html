@@ -5,6 +5,16 @@ title: "Reducing Suffering: архив"
 За новостями проекта можно следить в соцсетях: <a href="https://vk.com/reducing_suffering">ВКонтакте</a>, <a href="https://t.me/reducing_suffering">Telegram</a>.<br>
 <hr>
 
+{% assign years = "2023" %}
+{% for post in site.posts %}
+  {% assign year = post.date | date: "%Y" %}
+  {% assign years = years | append: ',' | append: year %}
+{% endfor %}
+{% assign years = years | split: "," | uniq %}<br>
+{{ years[2] }}<br>
+
+{{ site.posts | map: "date" | date: "%Y" }}
+
 <div class="posts">
 {% for post in site.posts %}
   {% include post-entry.html post=post %}

@@ -31,8 +31,7 @@ translated_by: К. Кирдан
 
 В приемной 14 октября 2013 года я разговаривал с кем-то, кого встретил, о страданиях животных в природе. Он ответил, что страдание на самом деле не так уж плохо, и поскольку природа прекрасно сложна и запутана, мы должны стараться как можно дольше сохранять ее такой, какая она есть. Я получал такую реакцию много раз, в том числе от нескольких близких друзей. Для этих людей эстетическая привлекательность природы перевешивает все страдания отдельных насекомых и рыбешек, которым приходится проживать в ней.
 
-<img src="https://reducing-suffering.org/wp-content/uploads/2014/10/Salmon_River.jpg" title="'The Salmon River is the largest tributary of the Snake River. Salmon River in Sawtooth NRA.' Image by Fredlyfish4 at en.wikipedia. (from https://en.wikipedia.org/wiki/File:Salmon_River.JPG) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license." width="40%" height="40%">
-
+<img src="https://reducing-suffering.org/wp-content/uploads/2014/10/Salmon_River.jpg" title="'The Salmon River is the largest tributary of the Snake River. Salmon River in Sawtooth NRA.' Image by Fredlyfish4 at en.wikipedia. (from https://en.wikipedia.org/wiki/File:Salmon_River.JPG) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license." width="35%" height="40%" align="right">
 «[Теория основ морали](http://www.moralfoundations.org/)» Джонатана Хайдта описывает пять главных ценностей, которые, по-видимому, лежат в основе многих моральных интуиций:
 
 1. Забота/вред
@@ -51,8 +50,7 @@ translated_by: К. Кирдан
 
 Конечно, мораль, основанная на заботе/вреде, фундаментально очень похожа. Наш мозг чувствует награду, помогая другим, и наказание, видя, как другие страдают, и мы рассматриваем это не просто как личную эмоцию, но как рефлексию о том, каким должен быть мир — т. е. он должен содержать больше помощи и меньше страданий.
 
-<img src="https://reducing-suffering.org/wp-content/uploads/2014/09/Dead_salmon_in_spawning_season.jpg" title="'Dead salmon in spawning season, U.S. Pacific Northwest.' Image by Peteforsyth. (from https://commons.wikimedia.org/wiki/File:Dead_salmon_in_spawning_season.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license." width="45%" height="45%" />
-
+<img src="https://reducing-suffering.org/wp-content/uploads/2014/09/Dead_salmon_in_spawning_season.jpg" title="'Dead salmon in spawning season, U.S. Pacific Northwest.' Image by Peteforsyth. (from https://commons.wikimedia.org/wiki/File:Dead_salmon_in_spawning_season.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license." width="35%" height="45%" align="left"/>
 Чистый апологет морали заботы/вреда, такой как я, может сказать апологету морали красоты: "Вы не понимаете. Красота — это просто реакция, которую вы имеете на представление чего-то. Это не значит, что мы должны на самом деле работать в направлении сценария, который вы представляете как прекрасный. Подлинная глубокая важность нравственного поведения заключается в улучшении субъективного опыта других существ. Апологет морали красоты может ответить: "Нет, вы не понимаете, насколько трансцендентна эта высшая красота. Это настолько фундаментально важно, что ради этого стоит страдать многим существам. _Вот_ где кроется глубочайшая моральная цель."
 
 Конечно, я не согласен с апологетом морали красоты, но это в своей основе сводится к различию в схемах нашего мозга. Точно так же я не могу отговорить [максимизатор скрепок](http://wiki.lesswrong.com/wiki/Paperclip_maximizer) от достижения его металлической цели. Максимизатор скрепок говорит нам: "Нет, вы оба не понимаете. Невыразимо глубокая ценность скрепок намного превосходит ваши мелкие заботы. Я надеюсь, что однажды вы увидите сияющую правду".

@@ -6,8 +6,11 @@
   <a href="{{ include.post.link_to }}">
   {% endif %}
     <div class="container">
-      <div style="font-size: 22px; font-weight: bold;">{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать дальше{% endif %}<br></div>
-      {% if include.post.preview %}<img src="{% if include.post.preview_here %}{{ include.post.preview | absolute_url }}{% else %}{{ include.post.preview }}{% endif %}" style="width:100%;">{% endif %}
+      <table style="width: 100%; font-size: 22px; font-weight: bold; margin: 0">
+	    <tr><td>{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать&nbsp;дальше{% endif %}:</td>
+		<td style="float: right; font-weight: normal; color: rgb(100, 100, 180)">{% if include.post.authors %}{{ include.post.authors | join: ", " }}{% else %}{{ include.post.source }}{% endif %}</td></tr>
+	  </table>
+      {% if include.post.preview %}<img src="{% if include.post.preview_here %}{{ include.post.preview | relative_url }}{% else %}{{ include.post.preview }}{% endif %}" alt="{{ include.post.title }}" style="width: 100%" onerror="this.onerror=null; width=0; height=0">{% endif %}
     </div>
   </a>
 </div>
@@ -15,7 +18,7 @@
 {% endunless %}
 {% endif %}
 
-{% if include.post.archive %}
+{% if include.post.archive %}<br>
 <a href="{{ include.post.archive }}">Запасная ссылка</a>
 {% endif %}
 
@@ -23,10 +26,5 @@
 <hr>
 <span class="post-tags">
   Оригинал: <a href="{{ include.post.original }}">{{ include.post.original }}</a><br>
-  {% if include.post.license %}Лицензия: <a href="{{ include.post.license[1] }}">{{ include.post.license[0] }}</a><br>{% endif %}
-  {% if include.post.translated_by %}Перевод: {{ include.post.translated_by | join: ", " }}<br>{% endif %}
-  {% if include.post.edited_by %}Редактура: {{ include.post.edited_by | join: ", " }}<br>{% endif %}
-  {% if include.post.last_update %}Последнее обновление: {{ include.post.last_update }}<br>{% endif %}
-  {{ include.post.comment }}
 </span>
 {% endif %}

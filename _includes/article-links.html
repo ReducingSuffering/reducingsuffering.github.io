@@ -1,0 +1,11 @@
+{% if include.article.original %}
+<hr>
+<span class="post-tags">
+  Оригинал: <a href="{{ include.article.original }}">{{ include.article.original }}</a><br>
+  {% if include.article.license %}Лицензия: <a href="{{ include.article.license[1] }}">{{ include.article.license[0] }}</a><br>{% endif %}
+  {% if include.article.translated_by %}Перевод: {{ include.article.translated_by | join: ", " }}<br>{% endif %}
+  {% if include.article.edited_by %}Редактура: {{ include.article.edited_by | join: ", " }}<br>{% endif %}
+  {% if include.article.last_update %}Последнее обновление: {{ include.article.last_update }}<br>{% endif %}
+  {{ include.article.comment }}
+</span>
+{% endif %}

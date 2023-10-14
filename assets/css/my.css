@@ -11,8 +11,8 @@ a {
 .post-in-frame {
   margin-bottom: 1em;
   padding: 1% 2% 1% 2%;
-  border: 0.05em solid rgb(180, 180, 180);
-  background-color: rgb(250, 250, 250);
+  border: 0.05em solid rgb(220, 220, 220);
+  background-color: rgb(247, 247, 247);
 }
 .page-title,
 .post-title {
@@ -100,9 +100,9 @@ ul {
 }
 
 .contents {
-  background-color: rgb(247, 247, 250);
+  background-color: rgb(237, 237, 250);
   padding: 1% 3% 1% 3%;
-  border: 0.05em solid rgb(140, 140, 140);
+  border: 0.05em solid rgb(227, 227, 227);
 }
 
 .navigation, 
@@ -125,4 +125,8 @@ blockquote {
   blockquote {
     padding-right: .5rem;
   }
+}
+
+img {
+  margin: 2%;
 }

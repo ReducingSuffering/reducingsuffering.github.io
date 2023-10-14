@@ -1,22 +1,10 @@
 ---
 layout: blog
 ---
-<h1 class="post-title">{{ page.title }}</h1>
-<div class="article-info">{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}</div>
-<hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
+{% include article-head.html article=page %}
 
-<div class="post">
+<div class="post-content">
   {{ content }}
 </div>
 
-{% if page.original %}
-<hr>
-<span class="post-tags">
-  Оригинал: <a href="{{ page.original }}">{{ page.original }}</a><br>
-  {% if page.license %}Лицензия: <a href="{{ page.license[1] }}">{{ page.license[0] }}</a><br>{% endif %}
-  {% if page.translated_by %}Перевод: {{ page.translated_by | join: ", " }}<br>{% endif %}
-  {% if page.edited_by %}Редактура: {{ page.edited_by | join: ", " }}<br>{% endif %}
-  {% if page.last_update %}Последнее обновление: {{ page.last_update }}<br>{% endif %}
-  {{ page.comment }}
-</span>
-{% endif %}
+{% include article-links.html article=page %}

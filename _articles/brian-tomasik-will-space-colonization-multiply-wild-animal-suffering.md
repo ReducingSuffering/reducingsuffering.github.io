@@ -47,7 +47,7 @@ _См. также_: "[On terraforming, wild-animal suffering and the far future]
 
 Терраформирование — это процесс изменения атмосферы, химического состава и условий среды на планете с целью сделать ее пригодной для жизни — сначала для экстремофильных микроорганизмов, затем, возможно, для растений, и в конце для животных.
 
-<a title="'This is an artist's concept of NASA's Mars Science Laboratory spacecraft approaching Mars.' By NASA/JPL-Caltech [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACuriosity_Approaching_Mars%2C_Artist's_Concept.jpg"><img alt="Curiosity Approaching Mars, Artist&#039;s Concept" src="https://reducing-suffering.org/wp-content/uploads/2015/01/640px-Curiosity_Approaching_Mars_Artists_Concept.jpg" /></a>
+<a title="'This is an artist's concept of NASA's Mars Science Laboratory spacecraft approaching Mars.' By NASA/JPL-Caltech [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACuriosity_Approaching_Mars%2C_Artist's_Concept.jpg"><img alt="Curiosity Approaching Mars, Artist&#039;s Concept" src="https://reducing-suffering.org/wp-content/uploads/2015/01/640px-Curiosity_Approaching_Mars_Artists_Concept.jpg" align="right" style="width: 35%"/></a>
 
 Фогг (2011) объясняет, что терраформирование было когда-то "спекулятивным мысленным экспериментом", но "постепенно набирает популярность". Он предполагает, что полное терраформирование Марса до заселения его животными "скорее всего останется далеким, хотя и не невозможным". Однако базовые этапы терраформирования тоже дадут выгоды. Например, введение более плотной атмосферы на Марсе могло бы помочь в защите от космического излучения, в полетах, а также уменьшить потребность в скафандрах (Фогг 2011).
 
