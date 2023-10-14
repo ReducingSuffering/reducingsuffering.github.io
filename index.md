@@ -26,12 +26,12 @@ title: "Reducing Suffering"
 ---
 
 {% for list in lists %}
-  <h1 id="{{ list.mark }}">{{ list.title }}</h1>
+  <h1 id="{{ list.mark }}">{{ list.title }} <a href="#contents" style="float: right">&#11181;</a></h1>
   <ul>{% for node in list.nodes %}
     <li>{% include post-entry-by-id.html id=node %}</li>
   {% endfor %}
   {% for sublist in list.sublists %}
-    <li>{% if sublist.url %}<h2><a href="#{{ sublist.url }}">{{ sublist.title }}</a></h2>{% else %}<h2 id="{{ sublist.mark }}">{{ sublist.title }}</h2>{% endif %}
+    <li><h2 id="{{ sublist.mark }}">{{ sublist.title }} <a href="#contents" style="float: right">&#11181;</a></h2>
     <ul>{% for node in sublist.nodes %}
       <li>{% include post-entry-by-id.html id=node %}</li>
     {% endfor %}</ul></li>
