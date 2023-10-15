@@ -23,8 +23,6 @@ title: "Reducing Suffering"
   </ul>
 </div>
 
----
-
 {% for list in lists %}
   <h1 id="{{ list.mark }}">{{ list.title }} <a href="#contents" style="float: right">&#11181;</a></h1>
   <ul>{% for node in list.nodes %}
