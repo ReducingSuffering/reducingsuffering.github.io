@@ -10,3 +10,15 @@ layout: default
 {% for article in site.articles %}
 <a href="{{ article.url }}">{{ article.name }}: {{ article.title }}</a><br>
 {% endfor %}
+
+---
+
+{% assign years = "2023" %}
+{% for post in site.posts %}
+  {% assign year = post.date | date: "%Y" %}
+  {% assign years = years | append: ',' | append: year %}
+{% endfor %}
+{% assign years = years | split: "," | uniq %}<br>
+{{ years[2] }}<br>
+
+{{ site.posts | map: "date" | date: "%Y" }}

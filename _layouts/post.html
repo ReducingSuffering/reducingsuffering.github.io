@@ -4,7 +4,7 @@ layout: blog
 {% if page.article %}
 {% assign article = site.articles | where: "name", page.article | first %}
 
-{% include article-head.html article=article post=true%}
+{% include post-head.html article=article %}
 
 <div class="post-content">
   {{ article.content | markdownify }}
@@ -26,3 +26,6 @@ layout: blog
 {% endif %}
 
 {% include post-bottom.html post=page %}
+
+---
+

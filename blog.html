@@ -10,14 +10,14 @@ title: "Reducing Suffering: блог"
   <div class="post-in-frame">
     {% if post.article %}
 	{% assign article = site.articles | where: "name", post.article | first %}
-	{% include article-head.html article=article with_link=true post=true %}
+	{% include post-head.html article=article link=true %}
     <div class="post-content">
       {{ article.content | markdownify }}
 	  {{ post.content }}
     </div>
     {% include article-links.html article=article %}
 	{% else %}
-    {% include post-head.html post=post with_link=true %}
+    {% include post-head.html post=post link=true %}
     <div class="post-content">
       {{ post.content }}
     </div>
