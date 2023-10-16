@@ -13,6 +13,7 @@ title: "Reducing Suffering: блог"
 	{% include post-head.html article=article link=true %}
     <div class="post-content">
       {{ article.content | markdownify }}
+	  {{ article.title }}
 	  {{ post.content }}
     </div>
     {% include article-links.html article=article %}
