@@ -105,6 +105,14 @@ ul {
   border: 0.05em solid rgb(227, 227, 227);
 }
 
+.link {
+  font-weight: normal; 
+  color: rgb(100, 100, 180);
+  background-color: rgb(237, 237, 250);
+  padding: 1% 3% 1% 3%;
+  border: 0.05em solid rgb(227, 227, 227);
+}
+
 .navigation, 
 .navigation a {
   text-align: center;
