@@ -1,14 +1,13 @@
 ---
 layout: blog
 ---
-{% if page.article %}
-{% assign article = site.articles | where: "url", page.article | first %}
+{% if page.article %}{% assign a = "/" | append: page.article | append: ".html" %}
+{% assign article = site.articles | where: "url", a | first %}
 
 {% include post-head.html article=article %}
 
 <div class="post-content">
   {{ article.content | markdownify }}
-  {{ article.title }}
   {{ content }}
 </div>
 
