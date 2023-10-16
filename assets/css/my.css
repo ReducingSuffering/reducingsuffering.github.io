@@ -12,7 +12,7 @@ a {
   margin-bottom: 1em;
   padding: 1% 2% 1% 2%;
   border: 0.05em solid rgb(220, 220, 220);
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(237, 237, 237);
 }
 .page-title,
 .post-title {
@@ -63,8 +63,11 @@ a {
   color: #B22222;
 }
 
+.container-masthead {
+  background-color: rgb(237, 237, 237);
+}
 .masthead {
-  padding-top:    1rem;
+  padding-top: 1rem;
   padding-bottom: 0.5rem;
   margin-bottom: 0.5rem;
   border-bottom: 1px solid #eee;
@@ -73,16 +76,34 @@ a {
 .masthead-title a {
   margin-top: 0;
   margin-bottom: 0;
-  text-align: center;
   color: #00008B;
   font-weight: bold;
+  text-align: center;
 }
 .masthead-subtitle,
 .masthead-subtitle a {
   margin-top: 0;
   margin-bottom: 0;
-  text-align: center;
   color: #505050;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+.bottom {
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+  margin-top: 0.5rem;
+  border-top: 1px solid #eee;
+}
+
+.additional-cell {
+  width: 120px
+}
+@media (max-width: 480px) {
+  .additional-cell {
+	width: 0  
+  }
 }
 
 .underline {
