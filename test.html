@@ -2,13 +2,13 @@
 layout: default
 ---
 {% for attr in site.articles[0] %}
-  {{ attr }}
+  {{ attr }}: {{ attr[1] }}<br>
 {% endfor %}
 
 <h2>Статьи</h2>
 
 {% for article in site.articles %}
-<a href="{{ article.url }}">{{ article.name }}: {{ article.title }}</a><br>
+<a href="{{ article.url }}">{{ article.url }}: {{ article.title }}</a><br>
 {% endfor %}
 
 ---

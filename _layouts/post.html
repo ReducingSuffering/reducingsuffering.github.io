@@ -2,7 +2,7 @@
 layout: blog
 ---
 {% if page.article %}
-{% assign article = site.articles | where: "name", page.article | first %}
+{% assign article = site.articles | where: "url", page.article | first %}
 
 {% include post-head.html article=article %}
 
