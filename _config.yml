@@ -18,3 +18,5 @@ collections:
     permalink: /:title:output_ext
   lists:
     output: false
+    
+google_analytics: G-CZTR6P99H5
