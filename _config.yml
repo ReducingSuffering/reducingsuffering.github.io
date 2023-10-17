@@ -2,7 +2,7 @@
 
 # Setup
 title:               Reducing Suffering
-url:                 reducing-suffering.github.io
+url:                 reducingsuffering.github.io
 baseurl:             ''
 permalink:           /:title:output_ext
 
