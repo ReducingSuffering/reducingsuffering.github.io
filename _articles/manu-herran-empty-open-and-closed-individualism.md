@@ -11,6 +11,8 @@ original_date:
 translated_by: Александр Баженов
 edited_by: К. Кирдан
 comment: 'Cм. также озвученную неотредактированную версию: <a href="https://www.youtube.com/watch?v=Tl_4Di5oMaw">https://www.youtube.com/watch?v=Tl_4Di5oMaw</a>'
+preview: /assets/images/articles/LlPwm1Y0t24.jpg
+preview_here: true
 ---
 <img src="/assets/images/articles/LlPwm1Y0t24.jpg">
 

@@ -9,6 +9,7 @@ original_date:
   - 2013.10.14
   - 2014.05.11
 translated_by: К. Кирдан
+preview: https://reducing-suffering.org/wp-content/uploads/2014/10/Salmon_River.jpg
 ---
 <h2 id="1">Аннотация</h2>
 

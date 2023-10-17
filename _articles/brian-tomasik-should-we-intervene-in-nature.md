@@ -9,6 +9,7 @@ original_date:
   - осень 2009
   - 2016.04.07
 translated_by: К. Кирдан
+preview: https://reducing-suffering.org/wp-content/uploads/2014/09/Garden_orb_weaver05.jpg
 ---
 _Эта статья была приглашенным ответом для электронного журнала Pensata Animal на вопрос о том, следует ли нам вмешиваться в естественное хищничество._
 

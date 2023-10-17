@@ -9,6 +9,7 @@ original_date:
   - "2005"
   - 2013.11.27
 translated_by: К. Кирдан
+preview: https://reducing-suffering.org/wp-content/uploads/2014/09/Triangles_spherical_geometry.jpg
 ---
 <h2 id="1">Аннотация</h2>
 

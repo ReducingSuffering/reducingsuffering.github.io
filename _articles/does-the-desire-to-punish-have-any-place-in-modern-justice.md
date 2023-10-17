@@ -11,6 +11,7 @@ original_date:
 license:
   - CC BY-ND 4.0
   - https://creativecommons.org/licenses/by-nd/4.0/deed.ru
+preview: https://aeon.co/_next/image?url=https%3A%2F%2Fepsilon.aeon.co%2Fimages%2F8867dbc5-4dc6-4945-913a-d7765101fa30%2Fidea_SIZED-tiegeltuf-Ehemaliges_Abschiebehaftgefa_ngnis_in_den_Birkhausen__5421593783_.jpg&w=1080&q=75
 ---
 ![](https://aeon.co/_next/image?url=https%3A%2F%2Fepsilon.aeon.co%2Fimages%2F8867dbc5-4dc6-4945-913a-d7765101fa30%2Fidea_SIZED-tiegeltuf-Ehemaliges_Abschiebehaftgefa_ngnis_in_den_Birkhausen__5421593783_.jpg&w=1080&q=75)
 

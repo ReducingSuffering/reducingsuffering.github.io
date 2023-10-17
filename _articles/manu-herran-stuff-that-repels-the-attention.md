@@ -8,6 +8,7 @@ translated_by: К. Кирдан
 original: https://manuherran.com/stuff-that-repels-the-attention/
 original_date:
   - 2019.01.05
+preview: https://manuherran.com/wp-content/uploads/2019/01/nooo-640x330.png
 ---
 ![](https://manuherran.com/wp-content/uploads/2019/01/nooo-640x330.png)
 

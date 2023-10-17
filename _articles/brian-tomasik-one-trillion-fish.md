@@ -9,6 +9,7 @@ original: https://reducing-suffering.org/one-trillion-fish/
 original_date:
   - 2012.01.01
   - 2020.02.23
+preview: https://reducing-suffering.org/wp-content/uploads/2014/09/Trawl_catch.jpg
 ---
 <h2 id="1">Аннотация</h2>
 

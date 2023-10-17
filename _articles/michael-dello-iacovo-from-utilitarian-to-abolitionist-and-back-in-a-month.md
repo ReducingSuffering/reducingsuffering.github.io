@@ -9,6 +9,7 @@ original: http://www.michaeldello.com/from-utilitarian-to-abolitionist-and-back-
 original_date:
   - 2016.08.04
 last_update: 2023.10.07
+preview: https://i0.wp.com/www.michaeldello.com/wp-content/uploads/2016/08/francione.jpg?resize=825%2C510&ssl=1
 ---
 <figure>
   <img src="https://i0.wp.com/www.michaeldello.com/wp-content/uploads/2016/08/francione.jpg?resize=825%2C510&amp;ssl=1"/>

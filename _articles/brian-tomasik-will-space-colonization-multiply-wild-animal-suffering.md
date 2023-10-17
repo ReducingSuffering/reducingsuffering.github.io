@@ -9,6 +9,7 @@ original_date:
   - "2014.04"
   - 2018.05.20
 translated_by: К. Кирдан
+preview: https://commons.wikimedia.org/wiki/File%3ACuriosity_Approaching_Mars%2C_Artist's_Concept.jpg
 ---
 <h2 id="1">Аннотация</h2>
 

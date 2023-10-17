@@ -11,6 +11,7 @@ original_date:
 license:
   - CC BY-ND 4.0
   - https://creativecommons.org/licenses/by-nd/4.0/deed.ru
+preview: https://aeon.co/_next/image?url=https%3A%2F%2Falpha.aeon.co%2Fimages%2F193eda8e-4e68-4d62-8fc1-f49034e26722%2Fidea_sized-v2-spacex_mars_tourism_poster_for_phobos_and_deimos.jpg&w=1920&q=75
 ---
 ![](https://aeon.co/_next/image?url=https%3A%2F%2Falpha.aeon.co%2Fimages%2F193eda8e-4e68-4d62-8fc1-f49034e26722%2Fidea_sized-v2-spacex_mars_tourism_poster_for_phobos_and_deimos.jpg&w=1920&q=75)
 
