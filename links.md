@@ -34,7 +34,6 @@ title: "Reducing Suffering: рекомендации"
 ## На русском языке:
 
 {% include project-entry.html author="Элиезер Юдковский" title="Рациональность: от ИИ до зомби" url="https://lesswrong.ru/285" text="сборник эссе о рациональном мышлении" %}
-
 {% include project-entry.html author="Дэвид Пирс" title="Гедонистический императив" url="https://reducingsuffering.github.io/89.html" text="проект преодоления страданий с помощью технологий" %}
 
 ## На английском языке:
