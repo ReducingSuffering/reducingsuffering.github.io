@@ -8,6 +8,8 @@ translated_by: К. Кирдан
 original: https://magnusvinding.com/2021/01/12/the-importance-of-happiness/
 original_date:
   - 2021.01.12
+preview: assets/images/previews/woman-2667455_1280.jpg
+preview_here: true
 ---
 Интуитивно кажется, что [сфокусированные на страдании](https://en.wikipedia.org/wiki/Suffering-focused_ethics) этические взгляды подразумевают, что неважно, живут ли люди полноценной жизнью. Однако, как я утверждаю, истина во многих отношениях противоположна — особенно для тех, кто пытается эффективно уменьшать страдания с помощью своих ограниченных ресурсов.
 

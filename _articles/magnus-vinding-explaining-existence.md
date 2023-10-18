@@ -9,6 +9,8 @@ original: https://magnusvinding.com/2018/08/16/explaining-existence/
 original_date:
   - "2018.08"
   - "2023.08"
+preview: assets/images/previews/space-7301393_1280.jpg
+preview_here: true
 ---
 “Тайна не в том, _как_ мир существует, а в том, что он _существует_.”
 
