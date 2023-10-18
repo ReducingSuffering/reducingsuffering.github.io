@@ -74,8 +74,9 @@ layout: none
   {% assign year = post.date | date: "%Y" %}
   {% assign years = years | append: ',' | append: year %}
 {% endfor %}
-{% assign years = years | split: "," | uniq %}<br>
-{{ years[2] }}<br>
+{{ years }}<br>
+{% assign years = years | split: "," %}<br>
+{{ years }}<br>
 
 {{ site.posts | map: "date" | date: "%Y" }}
 
