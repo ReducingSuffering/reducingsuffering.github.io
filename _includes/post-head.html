@@ -1,7 +1,8 @@
 {% if include.article %}
-{% if include.link %}<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ include.article.title }}</a></h2 class="post-title">{% else %}<h1>{{ include.article.title }}</h1>{% endif %}
+{% if include.link %}<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ include.article.title }}</a></h2>{% else %}<h1>{{ include.article.title }}</h1>{% endif %}
 <div class="article-info">{{ include.article.original_date | join: " — " }} &#8195 <b>{{ include.article.authors | join: ", " }}</b></div>
 <hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
 {% else %}
 <h2 class="post-title">{% if include.link %}<a href="{{ post.url | relative_url }}">{{ include.post.title }}</a>{% else %}{{ include.post.title }}{% endif %}</h2>
+{% if include.post.original %}<div class="article-info">{{ include.post.original_date | join: " — " }} &#8195 <b>{{ include.post.authors | join: ", " }}{{ include.post.source }}</b></div>{% endif %}
 {% endif %}
