@@ -74,10 +74,20 @@ layout: none
   {% assign year = post.date | date: "%Y" %}
   {% assign years = years | append: ',' | append: year %}
 {% endfor %}
-{{ years }}<br>
-{% assign years = years | split: "," %}<br>
-{{ years }}<br>
+{% assign years = years | split: "," | uniq %}
 
-{{ site.posts | map: "date" | date: "%Y" }}
+{% for year in years %}
+  {{ year }}
+{% endfor %}
+
+{% for year in years %}
+  {% for post in site.posts %}
+    {% assign date = post.date | date: "%Y" %}
+	{% if date == year %}
+	  {{ date }}
+	  {% include post-entry.html post=post %}
+	{% endif %}
+  {% endfor %}
+{% endfor %}
 
 </html>
