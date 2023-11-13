@@ -14,6 +14,9 @@ a {
   border: 0.05em solid rgb(220, 220, 220);
   background-color: rgb(237, 237, 237);
 }
+.post-in-frame hr {
+  color: rgb(150, 150, 150);
+}
 .page-title,
 .post-title {
   font-family:verdana
@@ -71,6 +74,7 @@ a {
   padding-bottom: 0.5rem;
   margin-bottom: 0.5rem;
   border-bottom: 1px solid #eee;
+  background-color: rgb(237, 237, 237);
 }
 .masthead-title,
 .masthead-title a {
@@ -95,6 +99,7 @@ a {
   padding-bottom: 1rem;
   margin-top: 0.5rem;
   border-top: 1px solid #eee;
+  background-color: rgb(237, 237, 237);
 }
 
 .additional-cell {
@@ -128,7 +133,7 @@ ul {
 }
 
 .contents {
-  background-color: rgb(217, 217, 217);
+  background-color: rgb(237, 237, 237);
   padding: 1% 3% 1% 3%;
   border: 0.05em solid rgb(227, 227, 227);
 }
