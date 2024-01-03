@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Что такое уменьшение страданий
-unixtime: 
+unixtime:
+  - "1704140135"
 vk: 
 authors:
   - К. Кирдан
