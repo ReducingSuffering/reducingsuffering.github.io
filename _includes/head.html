@@ -19,7 +19,7 @@
   <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/picture.png' | relative_url }}">
   
   <title>
-	{{ page.title }}{% if page.authors %} | {{ page.authors }}{% endif %}{% if page.source %} | {{ page.source }}{% endif %}
+	{{ page.title }}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}{% if page.source %} | {{ page.source }}{% endif %}
   </title>
   {% if page.url and site.baseurl %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
