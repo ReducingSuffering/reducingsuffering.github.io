@@ -2,7 +2,9 @@
 layout: blog
 title: "Reducing Suffering: рекомендации"
 ---
-Список ресурсов и книг на русском и английском языке, с которыми мы рекомендуем ознакомиться.
+Связь с администратором: [ВКонтакте](https://vk.com/latif_rosh), [Telegram](https://t.me/KKirdan), latif.rosh@gmail.com
+
+Далее идет список ресурсов и книг на русском и английском языке, с которыми мы рекомендуем ознакомиться.
 
 <h2><b>Ресурсы:</b></h2>
 
@@ -13,10 +15,13 @@ title: "Reducing Suffering: рекомендации"
 {% include project-entry.html title="Эффективный альтруизм" url="https://ea-ru.org/" vk="https://vk.com/public71205962" telegram="https://t.me/effectivealtruism" text="о том, как эффективнее менять мир в лучшую сторону" %}
 {% include project-entry.html title="Центр рациональности Кочерга" url="https://kocherga-club.ru/" vk="https://vk.com/kocherga_club" text="встречи и общение на тему рационального мышления и не только" %}
 {% include project-entry.html title="Безопасность искусственного интеллекта" url="https://aisafety.ru/" text="переводы статей по согласованию искусственного интеллекта" %}
-{% include project-entry.html title="Matter and Mind" url="https://ubq124.wordpress.com" vk="https://vk.com/public44220375" youtube="https://www.youtube.com/c/MatterandMind" text="переводы и озвучка статей по философии сознания, этике и не только" %}
-{% include project-entry.html title="Разные ресурсы об антинатализме" url="https://reducingsuffering.github.io/520.html" %}
 <!--{% include project-entry.html title="Brick of Knowledge" url="https://brickofknowledge.com/" telegram="https://t.me/brickofknowledge" text="переводы статей из Стэнфордской энциклопедии философии" %}
 {% include project-entry.html title="Philosophy.ru" url="https://philosophy.ru/" text="переводы статей из Стэнфордской энциклопедии философии" %}-->
+{% include project-entry.html title="К. Кирдан" url="https://kkirdan.github.io/" vk="https://vk.com/kirdan" telegram="https://t.me/k_kirdan" text="личный блог администратора проекта" %}
+{% include project-entry.html title="что-то важное (или нет)" vk="https://vk.com/public194967191" text="наш побочный склад материалов на самые разные темы" %}
+{% include project-entry.html title="Matter and Mind" url="https://ubq124.wordpress.com" vk="https://vk.com/public44220375" youtube="https://www.youtube.com/c/MatterandMind" text="переводы и озвучка статей по философии сознания, этике и не только" %}
+{% include project-entry.html title="Голоса за животных" url="https://voicesforanimals.ru/" vk="https://vk.com/voicesforanimals" telegram="https://t.me/voicesforanimals" youtube="https://www.youtube.com/voicesforanimals" text="зоозащитная организация" %}
+{% include project-entry.html title="Разные ресурсы об антинатализме" url="https://reducingsuffering.github.io/520.html" %}
 
 ## На английском языке:
 
@@ -38,5 +43,5 @@ title: "Reducing Suffering: рекомендации"
 
 ## На английском языке:
 
-{% include project-entry.html author="Magnus Vinding" title="Suffering-Focused Ethics: Defense and Implications" url="https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/" text="об этике, сфокусированной на уменьшении страданий " %}
+{% include project-entry.html author="Magnus Vinding" title="Suffering-Focused Ethics: Defense and Implications" url="https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/" text="об этике, сфокусированной на уменьшении страданий" %}
 {% include project-entry.html author="Tobias Baumann" title="Avoiding the Worst: How to Prevent a Moral Catastrophe" url="https://centerforreducingsuffering.org/research/avoiding-the-worst/" text="о том, как избежать рисков распространения астрономических страданий" %}
