@@ -6,16 +6,19 @@ url:                 reducingsuffering.github.io
 baseurl:             ''
 permalink:           /:title:output_ext
 
-# About/contact
-email:               latif.rosh@gmail.com
+# Social networks
 vk:                  https://vk.com/reducing_suffering
 telegram:            https://t.me/reducing_suffering
-patreon:             https://www.patreon.com/user?u=120067868
-boosty:              https://boosty.to/k_kirdan
+
+# Admin contacts
+admin:
+  email: latif.rosh@gmail.com
+  vk: https://vk.com/latif_rosh
+  telegram: https://t.me/KKirdan
+  patreon: https://www.patreon.com/user?u=120067868
+  boosty: https://boosty.to/k_kirdan
 
 # Custom vars
-# google_analytics
-
 collections:
   articles:
     output: true
