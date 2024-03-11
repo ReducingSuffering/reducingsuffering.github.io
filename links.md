@@ -2,9 +2,9 @@
 layout: blog
 title: "Reducing Suffering: ссылки"
 ---
-Поддержать проект: [Patreon]({{ site.admin.patreon }}), [Boosty]({{ site.admin.boosty }})
-
 Связаться с администратором: [ВКонтакте]({{ site.admin.vk }}), [Telegram]({{ site.admin.telegram }}), эл. почта [{{ site.admin.email }}](mailto:{{ site.admin.email }})
+
+Поддержать проект: [Patreon]({{ site.admin.patreon }}), [Boosty]({{ site.admin.boosty }})
 
 Ниже приведен список ресурсов и книг на русском и английском языке, с которыми мы рекомендуем ознакомиться.
 
