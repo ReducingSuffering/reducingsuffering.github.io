@@ -1,10 +1,12 @@
 ---
 layout: blog
-title: "Reducing Suffering: рекомендации"
+title: "Reducing Suffering: ссылки"
 ---
-Связь с администратором: [ВКонтакте](https://vk.com/latif_rosh), [Telegram](https://t.me/KKirdan), latif.rosh@gmail.com
+Поддержать проект: [Patreon]({{ site.admin.patreon }}), [Boosty]({{ site.admin.boosty }})
 
-Далее идет список ресурсов и книг на русском и английском языке, с которыми мы рекомендуем ознакомиться.
+Связаться с администратором: [ВКонтакте]({{ site.admin.vk }}), [Telegram]({{ site.admin.telegram }}), эл. почта [{{ site.admin.email }}](mailto:{{ site.admin.email }})
+
+Ниже приведен список ресурсов и книг на русском и английском языке, с которыми мы рекомендуем ознакомиться.
 
 <h2><b>Ресурсы:</b></h2>
 
