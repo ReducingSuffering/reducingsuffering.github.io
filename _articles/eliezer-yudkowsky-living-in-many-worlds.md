@@ -10,6 +10,8 @@ translated_by: К. Кирдан
 license:
   - CC BY-NC-SA 3.0
   - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru
+preview: assets/images/previews/multiverse-7266131_1280.jpg
+preview_here: true
 ---
 Некоторые комментаторы недавно выразили беспокойство по поводу мысли о постоянном их расщеплении на миллионы других людей, что [прямо и неизбежно предсказывает квантовая механика](https://www.readthesequences.com/ManyWorldsOneBestGuess).
 
