@@ -21,7 +21,7 @@ title: "Reducing Suffering: ссылки"
 
 ### На русском языке
 
-#### Ресурсы:
+Ресурсы:
 
 {% include project-entry.html title="LessWrong на русском" url="https://lesswrong.ru/" vk="https://vk.com/public65688570" telegram="https://t.me/lesswrong_ru_news" text="о рациональном мышлении и искусственном интеллекте" %}
 {% include project-entry.html title="Уличная эпистемология" url="https://streetepistemology.ru/" vk="https://vk.com/street_epistemology" text="о методах бесконфликтного общения и исследовании надежности убеждений" %}
@@ -36,14 +36,14 @@ title: "Reducing Suffering: ссылки"
 {% include project-entry.html title="Разные ресурсы об антинатализме" url="https://reducingsuffering.github.io/520.html" text="наши товарищи" %}
 {% include project-entry.html title="К. Кирдан" url="https://kkirdan.github.io/" vk="https://vk.com/kirdan" telegram="https://t.me/k_kirdan" text="личный блог администратора проекта" %}
 
-#### Книги:
+Книги:
 
 {% include project-entry.html author="Элиезер Юдковский" title="Рациональность: от ИИ до зомби" url="https://lesswrong.ru/285" text="сборник эссе о рациональном мышлении" %}
 {% include project-entry.html author="Дэвид Пирс" title="Гедонистический императив" url="https://reducingsuffering.github.io/89.html" text="проект преодоления страданий с помощью технологий" %}
 
 ### На английском языке
 
-#### Ресурсы:
+Ресурсы:
 
 {% include project-entry.html title="Center on Long-Term Risk" url="https://longtermrisk.org/" text="проект, посвященный уменьшению рисков астрономических страданий (в том числе рисков, связанных с искусственным интеллектом)" %}
 {% include project-entry.html title="Center for Reducing Suffering" url="https://centerforreducingsuffering.org/" text="еще один такой проект" %}
@@ -54,7 +54,7 @@ title: "Reducing Suffering: ссылки"
 {% include project-entry.html title="Effective Altruism" url="https://www.effectivealtruism.org/" text="об эффективных способах сделать мир лучше" %}
 {% include project-entry.html title="Utilitarianism" url="https://www.utilitarianism.net/" text="об утилитарной этике" %}
 
-#### Книги:
+Книги:
 
 {% include project-entry.html author="Magnus Vinding" title="Suffering-Focused Ethics: Defense and Implications" url="https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/" text="об этике, сфокусированной на уменьшении страданий" %}
 {% include project-entry.html author="Tobias Baumann" title="Avoiding the Worst: How to Prevent a Moral Catastrophe" url="https://centerforreducingsuffering.org/research/avoiding-the-worst/" text="о том, как избежать рисков распространения астрономических страданий" %}
