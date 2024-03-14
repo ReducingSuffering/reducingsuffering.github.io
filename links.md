@@ -18,7 +18,6 @@ title: "Reducing Suffering: ссылки"
 [Boosty]({{ site.admin.boosty }})
 
 ## Рекомендации
-
 ### На русском языке
 
 Ресурсы:
