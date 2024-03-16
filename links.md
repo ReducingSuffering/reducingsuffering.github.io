@@ -24,7 +24,7 @@ title: "Reducing Suffering: ссылки"
 * [Уличная эпистемология](https://streetepistemology.ru/) ([ВКонтакте](https://vk.com/street_epistemology)) — о методах бесконфликтного общения и исследовании надежности убеждений;
 * [Эффективный альтруизм](https://ea-ru.org/) ([ВКонтакте](https://vk.com/public71205962), [Telegram](https://t.me/effectivealtruism)) — о том, как эффективнее менять мир в лучшую сторону;
 * [Центр рациональности Кочерга](https://kocherga-club.ru/) ([ВКонтакте](https://vk.com/kocherga_club)) — встречи и общение на тему рационального мышления и не только;
-* [Безопасность искусственного интеллекта](https://aisafety.ru/)) — переводы статей по согласованию искусственного интеллекта;
+* [Безопасность искусственного интеллекта](https://aisafety.ru/) — переводы статей по согласованию искусственного интеллекта;
 * [Matter and Mind](https://ubq124.wordpress.com) ([ВКонтакте](https://vk.com/public44220375), [YouTube](https://www.youtube.com/c/MatterandMind)) — переводы и озвучка статей по философии сознания, этике и не только;
 * [Голоса за животных](https://voicesforanimals.ru/) ([ВКонтакте](https://vk.com/voicesforanimals), [Telegram](https://t.me/voicesforanimals), [YouTube](https://www.youtube.com/voicesforanimals)) — зоозащитная организация;
 * [Разные ресурсы об антинатализме](https://reducingsuffering.github.io/520.html) — наши товарищи;
