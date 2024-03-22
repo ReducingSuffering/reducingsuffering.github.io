@@ -9,7 +9,7 @@ translated_by: К. Кирдан
 license:
   - CC BY-NC-SA 3.0
   - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru
-preview: assets/images/previews/brain-7170513_1280.jpg
+preview: assets/images/previews/brain-7170513-.jpg
 preview_here: true
 ---
 Что такого _пугающего_ в идее, что не все возможные умы могут согласиться с нами, даже в принципе?
