@@ -2,13 +2,15 @@
 layout: blog
 title: "Reducing Suffering: поддержать"
 ---
-Так вы можете поддержать администратора проекта:<br>
-[Patreon]({{ site.admin.patreon }})<br>
-[Boosty]({{ site.admin.boosty }})
+## Поддержать проект
 
-Кроме того, вы можете помочь проекту, если расскажете о нем тем, кто еще не знает, и поделитесь нашими материалами.
+Финансово поддержать администратора:
+* [Patreon]({{ site.admin.patreon }});
+* [Boosty]({{ site.admin.boosty }}).
 
-Связь с администратором:<br>
-[ВКонтакте]({{ site.admin.vk }})<br>
-[Telegram]({{ site.admin.telegram }})<br>
-эл. почта [{{ site.admin.email }}](mailto:{{ site.admin.email }})
+## Обратная связь
+
+Связаться с администратором проекта:
+* [ВКонтакте]({{ site.admin.vk }});
+* [Telegram]({{ site.admin.telegram }});
+* эл. почта [{{ site.admin.email }}](mailto:{{ site.admin.email }})
