@@ -12,7 +12,7 @@ title: "Reducing Suffering: темы"
 <h2 id="authors">Авторы по количеству записей</h2>
 <div class="contents">
 {% assign authors = site.posts | map: 'authors' | uniq %}
-{% for author in authors %}{% if author %}{% assign count = 0 %}{% for post in site.posts %}{% if post.authors contains author %}{% assign count = count | plus: 1 %}{% endif %}{% endfor %}<span class="post-tags-inline"><a href="#{{ author }}" style="font-size: {% if count > 1 %}{{ count | times: 4 | plus: 105 | at_most: 200 }}{% else %}90{% endif %}%">{{ author | replace: " ", "&nbsp;" }}&nbsp;({{ count }})</a></span>{% else %}&nbsp;{% endif %}
+{% for author in authors %}{% if author %}{% assign count = 0 %}{% for post in site.posts %}{% if post.authors contains author %}{% assign count = count | plus: 1 %}{% endif %}{% endfor %}<span class="post-tags-inline"><a href="#{{ author | replace: " ", "_" }}" style="font-size: {% if count > 1 %}{{ count | times: 4 | plus: 105 | at_most: 200 }}{% else %}90{% endif %}%">{{ author | replace: " ", "&nbsp;" }}&nbsp;({{ count }})</a></span>{% else %}&nbsp;{% endif %}
 {% endfor %}
 </div>
 
@@ -38,7 +38,7 @@ title: "Reducing Suffering: темы"
 
 <h2>Записи по авторам</h2>
 {% for author in authors %}
-  <h3 id="{{ author }}"><b>{{ author }}</b> <a href="#authors" style="float: right">&#11181;</a></h3>
+  <h3 id="{{ author | replace: " ", "_" }}"><b>{{ author }}</b> <a href="#authors" style="float: right">&#11181;</a></h3>
   <ul>
   {% for post in site.posts %}
     {% if post.authors contains author %}
