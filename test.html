@@ -11,7 +11,7 @@ layout: none
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <meta http-equiv="refresh" content="0; url=https://vk.com/reducing_suffering"/>
+  <meta http-equiv="refresh" content="10; url=https://vk.com/reducing_suffering"/>
 	
   <meta property="og:title" content="Тестовая страница">
   <meta property="og:locale" content="ru">
@@ -67,6 +67,10 @@ layout: none
 {% for article in site.articles %}
 <a href="{{ article.url }}">{{ article.title }}</a><br>
 {% endfor %}
+
+<hr>
+
+Количество постов: {{ site.posts.size }}
 
 <hr>
 
