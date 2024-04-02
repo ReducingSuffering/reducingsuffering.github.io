@@ -9,12 +9,6 @@ title: "Reducing Suffering: ссылки"
 * [Telegram]({{ site.admin.telegram }});
 * эл. почта [{{ site.admin.email }}](mailto:{{ site.admin.email }})
 
-## Поддержать проект
-
-Финансово поддержать администратора:
-* [Patreon]({{ site.admin.patreon }});
-* [Boosty]({{ site.admin.boosty }}).
-
 ## Рекомендации
 ### На русском языке
 
