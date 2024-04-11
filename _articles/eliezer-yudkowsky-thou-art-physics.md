@@ -18,7 +18,7 @@ license:
 
 Люди слышат: «Вселенная работает как часы; физика детерминирована; [будущее предопределено](https://www.greaterwrong.com/lw/qp/timeless_physics/)». И в их разуме образуется сеть причинно-следственных связей, которая выглядит следующим образом:
 
-<img src="/assets/images/articles/Physics_1_jw60yj_exuprr.png" width="100%"/>
+<img src="/assets/images/articles/Physics_1_jw60yj_exuprr.png" width="100%" align="center"/>
 
 Здесь мы видим, что причины «Я» и «Физика» конкурируют за определение состояния «Будущего» следствия. Если «Будущее» полностью определено «Физикой», то очевидно, что «Я» не может на него повлиять.
 
@@ -30,11 +30,11 @@ license:
 
 Разумеется, реальная диаграмма должна быть такой:
 
-<img src="/assets/images/articles/Physics_2_eaghzx_zt9wqo.png" width="50%"/>
+<img src="/assets/images/articles/Physics_2_eaghzx_zt9wqo.png" width="50%" align="center"/>
 
 Или лучше даже такой:
 
-<img src="/assets/images/articles/Physics_3_dzbxqd_omx2im.png" width="50%"/>
+<img src="/assets/images/articles/Physics_3_dzbxqd_omx2im.png" width="50%" align="center"/>
 
 Почему это не очевидно? Потому что есть много [уровней организации](https://lesswrong.ru/w/%D0%A0%D0%B5%D0%B4%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC), которые отделяют наши модели наших мыслей — наших эмоций, наших убеждений, наших мучительных колебаний и нашего окончательного выбора — от наших моделей электронов и кварков.
 
