@@ -10,6 +10,8 @@ translated_by: К. Кирдан
 license:
   - CC BY-NC-SA 3.0
   - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru
+preview: assets/images/previews/thou-art-physics.jpg
+preview_here: true
 ---
 <a id="citationa"></a>
 [Три месяца назад](https://lesswrong.ru/w/%D0%A0%D0%B0%D1%81%D0%BF%D1%83%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B0) — ничего себе, неужели это было так давно? — я дал [домашнее задание](https://wiki.lesswrong.com/wiki/Free_will): провести трассировку стека<sup><a href="#footnotea">a</a></sup> человеческих когнитивных алгоритмов, которые порождают дебаты о «свободе воли». Обратите внимание, что эта задача совершенно отлична от задачи доказательств существования или не-существования свободы воли.
