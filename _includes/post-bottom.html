@@ -1,6 +1,8 @@
-{% if include.post.tags %}
-<hr>
-<span class="post-tags">
-  {% include list-of-tags.html tags=include.post.tags %}
-</span>
-{% endif %}
+<hr style="margin-top: 8px; margin-bottom: 8px">
+
+<table style="padding: 0; border-spacing: 0">
+  <tr style="padding: 0">
+    <td style="padding: 0; color: #303030;">{% include list-of-tags.html tags=include.post.tags %}</td>
+    <td style="padding: 0; color: #9a9a9a; width: 1px; white-space: nowrap; vertical-align: top">{% if include.post %}{{ include.post.date | date: "%Y.%m.%d" }}{% else %}{{ include.article.date | date: "%Y.%m.%d" }}{% endif %}</td>
+  </tr>
+</table>
