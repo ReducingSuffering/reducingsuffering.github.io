@@ -1,3 +1,4 @@
-<h1 class="post-title">{{ include.article.title }}</h1>
+<h1>{{ include.article.title }}</h1>{% endif %}
+{% if include.article.subtitle %}<h2>{{ include.article.subtitle }}</h2>{% endif %}
 <div class="article-info">{{ include.article.original_date | join: " — " }} &#8195 <b>{{ include.article.authors | join: ", " }}</b></div>
 <hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
