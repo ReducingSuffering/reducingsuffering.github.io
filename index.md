@@ -8,7 +8,7 @@ title: "Reducing Suffering: об уменьшении страданий на р
 
 {% assign lists = site.lists | sort: "order" %}
 
-<div class="contents" id="contents">
+<div class="contents" id="Содержание">
   <h2>Содержание</h2>
   <ul>
     {% for list in lists %}
@@ -22,12 +22,12 @@ title: "Reducing Suffering: об уменьшении страданий на р
 </div>
 
 {% for list in lists %}
-  <h1 id="{{ list.mark }}">{{ list.title }} <a href="#contents" style="float: right">&#11181;</a></h1>
+  <h1 id="{{ list.mark }}">{{ list.title }} <a href="#Содержание" style="float: right">&#11181;</a></h1>
   <ul>{% for node in list.nodes %}
     <li class="sublist">{% include post-entry-by-id.html id=node %}</li>
   {% endfor %}
   {% for sublist in list.sublists %}
-    <li><h2 id="{{ sublist.mark }}">{{ sublist.title }} <a href="#contents" style="float: right">&#11181;</a></h2>
+    <li><h2 id="{{ sublist.mark }}">{{ sublist.title }} <a href="#Содержание" style="float: right">&#11181;</a></h2>
     <ul>{% for node in sublist.nodes %}
       <li class="sublist">{% include post-entry-by-id.html id=node %}</li>
     {% endfor %}</ul></li>

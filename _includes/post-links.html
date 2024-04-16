@@ -6,7 +6,7 @@
   <a href="{{ include.post.link_to }}">
   {% endif %}
       <div style="font-size: 20px; font-weight: bold;">{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать&nbsp;дальше{% endif %}:</div>
-	  <div class="link">{% if include.post.authors %}{{ include.post.authors | join: ", " }}{% else %}{{ include.post.source }}{% endif %}, {{ include.post.title }}
+	  <div class="link">{% if include.post.authors %}{% unless include.post.authors[0] == "другие" %}{{ include.post.authors | join: ", " }}{% endunless %}{% else %}{{ include.post.source }}{% endif %}, {{ include.post.title }}
 	  {% if include.post.preview %}<img src="{% if include.post.preview_here %}{{ include.post.preview | relative_url }}{% else %}{{ include.post.preview }}{% endif %}" style="width: 100%; margin: 0;" onerror="this.onerror=null; width=0; height=0">{% endif %}</div>
   </a>
   {% if include.post.archive %}
