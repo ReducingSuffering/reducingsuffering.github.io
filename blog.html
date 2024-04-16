@@ -3,11 +3,14 @@ layout: blog
 title: "Reducing Suffering: блог"
 ---
 Блог можно читать в соцсетях: <a href="https://vk.com/reducing_suffering">ВКонтакте</a>, <a href="https://t.me/reducing_suffering">Telegram</a>.<br>
-<hr>
+<hr style="margin-top: 8px; margin-bottom: 12px">
 
 <div class="posts">
+Закрепленный пост: <a href="#546">Что такое уменьшение страданий | К. Кирдан</a>
+<br><br>
+
 {% for post in site.posts %}
-  <div class="post-in-frame">
+  <div class="post-in-frame" id="{{ post.id | remove: "/" }}">
     {% if post.article %}{% assign a = "/" | append: post.article | append: ".html" %}
 	{% assign article = site.articles | where: "url", a | first %}
 	{% include post-head.html article=article link=true %}
