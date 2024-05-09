@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Один триллион рыб
+title: Триллион рыб
 authors:
   - Брайан Томасик
 vk: 
