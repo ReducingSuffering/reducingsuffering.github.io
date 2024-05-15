@@ -1,6 +1,6 @@
 ---
 layout: article
-title: What Is Life?
+title: Что такое жизнь?
 authors:
   - "Лукас Глор"
 translated_by: К. Кирдан
