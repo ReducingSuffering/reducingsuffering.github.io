@@ -7,6 +7,7 @@ translated_by: К. Кирдан
 original: https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058/edit
 original_date:
   - "2024"
+is_fragment: true
 preview: assets/images/previews/buddhist-hell-2123927_1280.jpg
 preview_here: true
 ---
