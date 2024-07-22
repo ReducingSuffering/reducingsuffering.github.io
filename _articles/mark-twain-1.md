@@ -1,9 +1,10 @@
 ---
 layout: article
-title: «Можно только поражаться всеобъемлющей и всепроницающей злобе»
+title: Можно только поражаться всеобъемлющей и всепроницающей злобе
 authors:
   - Марк Твен
 is_fragment: true
+original_date: "1906.06.23"
 preview: assets/images/wall/deer-7986309_1280.jpg
 preview_here: true
 ---
@@ -21,6 +22,6 @@ preview_here: true
 
 ---
 
-Источник: Марк Твен, [Размышления о религии](https://mark-twain.ru/sochineniya/razmyshleniya-o-religii)
+Источник: Марк Твен, [Размышления о религии](https://mark-twain.ru/sochineniya/razmyshleniya-o-religii) (1906)
 
 <img src="assets/images/wall/deer-7986309_1280.jpg"/>
