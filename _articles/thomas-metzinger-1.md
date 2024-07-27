@@ -11,6 +11,7 @@ license: ["CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/deed.ru"]
 is_fragment: true
 preview: assets/images/previews/cyborg-8514853_480.png
 preview_here: true
+excerpt: "Сегодня сознательные машины будущего не представлены в политическом процессе ни в одной стране. Их потенциальные интересы и предпочтения не представлены систематическим образом ни каким-либо комитетом по этике, ни какой-либо юридической процедурой, ни какой-либо политической партией на планете. В то же время, выглядит эмпирически правдоподобным, что как только машинное сознание эволюционирует, какие-то из этих систем будут иметь свои предпочтения, что они будут самостоятельно создавать иерархию целей, и что эта иерархия целей станет частью их феноменальной Я-модели (т.е., их сознательной самопрезентацией). Некоторые из них будут способны сознательно страдать. Если их предпочтения нарушены, если их цели не могут быть достигнуты, и если их сознательная Я-модель находится под угрозой распада, они могут подвергнуться отрицательным феноменальным состояниям, состояниям сознательного опыта, которых они хотят избежать, но _не могут_ избежать, и которые они вынуждены переживать как состояния _самих себя_. Конечно, они также могут страдать способами, которые мы не можем понять или вообразить, и мы, возможно, даже не сможем обнаружить этот самый факт. Но каждое существо, способное страдать, должно быть объектом морального рассмотрения."
 ---
 (Это отрывок из статьи «[Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology](https://www.worldscientific.com/doi/10.1142/S270507852150003X)»)
 
@@ -26,22 +27,22 @@ preview_here: true
 
 ### Ссылки
 
-- Chrisley, R. \[2009\] Synthetic phenomenology, _Int. J. Mach. Conscious._ **1**(1), 53—70, doi: 10.1142/S1793843009000074.
-- Dehaene, S., Lau, H. and Kouider, S. \[2017\] What is consciousness, and could machines have it? _Science_ **358**(6362), 486—492.
+- Chrisley, R. \[2009\] Synthetic phenomenology, _Int. J. Mach. Conscious._ **1**(1), 53–70, doi: 10.1142/S1793843009000074.
+- Dehaene, S., Lau, H. and Kouider, S. \[2017\] What is consciousness, and could machines have it? _Science_ **358**(6362), 486–492.
 - Gilbert, P. \[2016\] _Human Nature and Suffering_ (Routledge, London).
 - Graziano, M. S. A. \[2017\] The attention schema theory: A foundation for engineering artificial consciousness, _Front. Robot. AI_ **4**, 60, doi: 10.3389/frobt.2017.00060.
-- Holland, O. \[2020\] Forget the bat, _J. Artif. Intell. Conscious._ **7**(1), 83—93, doi: 10.1142/S2705078520500058.
-- Horta, O. \[2010\] Debunking the idyllic view of natural processes: Population dynamics and suffering in the wild, _Télos_ 17(1), 7388.
-- Iglesias, V. \[2018\] The overwhelming prevalence of suffering in nature, _Rev. Bioét. Derecho_ **42**, 181—195.
+- Holland, O. \[2020\] Forget the bat, _J. Artif. Intell. Conscious._ **7**(1), 83–93, doi: 10.1142/S2705078520500058.
+- Horta, O. \[2010\] Debunking the idyllic view of natural processes: Population dynamics and suffering in the wild, _Télos_ 17(1), 73–88.
+- Iglesias, V. \[2018\] The overwhelming prevalence of suffering in nature, _Rev. Bioét. Derecho_ **42**, 181–195.
 - Kanai, R. \[2017\] We need conscious robots, _Nautilus_, Issue 047, <http://nautil.us/issue/47/consciousness/we-need-conscious-robots>.
 - Metzinger, T. \[2003a\] _Being No One: The Self-model Theory of Subjectivity_ (The MIT Press, Cambridge, MA).
-- Metzinger, T. \[2008\] Empirical perspectives from the self-model theory of subjectivity: a brief summary with examples, _Prog. Brain Res._ **168**, 215—245. 273—278, doi: 10.1016/s0079-6123(07)68018-2.
+- Metzinger, T. \[2008\] Empirical perspectives from the self-model theory of subjectivity: a brief summary with examples, _Prog. Brain Res._ **168**, 215–245. 273–278, doi: 10.1016/s0079-6123(07)68018-2.
 - Metzinger, T. K. \[2018c\] Why is virtual reality interesting for philosophers? _Front. Robot. AI_ **5**, 101, doi: 10.3389/frobt.2018.00101.
-- Nesse, R. M. \[2004\] Natural selection and the elusiveness of happiness, _Philos. Trans. R. Soc. Lond. B, Biol. Sci._ **359**(1449), 1333—1347.
+- Nesse, R. M. \[2004\] Natural selection and the elusiveness of happiness, _Philos. Trans. R. Soc. Lond. B, Biol. Sci._ **359**(1449), 1333–1347.
 - Population Reference Bureau \[2020\] Data Sheet 2020, <https://www.prb.org/2020-world-population-data-sheet/>.
 - Trivers, R. \[2011\] _Deceit and Self-Deception: Fooling Yourself the Better to Fool Others_ (Penguin Books, London, UK).
 - Vinding, M. \[2020\] _Suffering-focused Ethics: Defense and Implications_ (Radio Ethica, Copenhagen), <https://magnusvinding.files.wordpress.com/2020/05/suffering-focused-ethics.pdf>.
-- von Hippel, W. and Trivers, R. \[2011\] The evolution and psychology of self-deception, _Behav. Brain Sci._ **34**(1), 1—16, doi: 10.1017/S0140525X10001354.
+- von Hippel, W. and Trivers, R. \[2011\] The evolution and psychology of self-deception, _Behav. Brain Sci._ **34**(1), 1–16, doi: 10.1017/S0140525X10001354.
 
 ### Сноски
 
