@@ -9,7 +9,7 @@ translated_by: "Евгений Вдовин (для <a href=\"https://vk.com/wal
 edited_by: К. Кирдан
 license: ["CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/deed.ru"]
 is_fragment: true
-preview: assets/images/previews/cyborg-8514853_1280.png
+preview: assets/images/previews/cyborg-8514853_480.png
 preview_here: true
 ---
 (Это отрывок из статьи «[Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology](https://www.worldscientific.com/doi/10.1142/S270507852150003X)»)
