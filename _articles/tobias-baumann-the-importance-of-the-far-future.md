@@ -2,7 +2,7 @@
 layout: article
 title: Важность далекого будущего
 authors:
-  - Тобайас Бауман
+  - Тобиас Бауман
 translated_by: К. Кирдан
 original: https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-importance-of-the-far-future/
 original_date: 
