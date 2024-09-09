@@ -53,7 +53,7 @@ preview_here: true
 
 ## Асимметричность в плане срочности
 
-Можно сказать, что фундаментальное различие состоит в том, что страдание является проблематичным по своей сути и что оно несет с собой внутреннюю срочность — по словам Томаса Метцингера, «срочность перемен» (Metzinger, 2017, “Option 4: eliminating the NV-condition”). Нейтральное состояние, которое могло бы быть весьма счастливым, напротив, не является проблематичным, поэтому «поднятие» таких непроблематичных состояний до (более высоких) удовольствий не несет соответствующей срочности.
+Можно сказать, что фундаментальное различие состоит в том, что страдание является проблематичным по своей сути и что оно несет с собой внутреннюю срочность — по словам Томаса Метцингера, «срочность перемен» (Metzinger, 2017, “Option 4: eliminating the NV-condition”). Нейтральное состояние, которое могло бы быть весьма счастливым, напротив, не является проблематичным, поэтому «поднятие» таких непроблематичных состояний до удовольствий (более высокого уровня) не несет соответствующей срочности.
 
 Поппер выражал схожее мнение:
 
@@ -62,15 +62,15 @@ preview_here: true
 
 ## Удовлетворенность и избегание нарушения предпочтений
 
-Другой взгляд, который влечет моральную асимметрию между счастьем и страданием — это взгляд, согласно которому то, что имеет значение — не интенсивность наших удовольствий, а удовлетворенность, т.е. отсутствие дискомфорта и неисполненных желаний.
+Другой взгляд, который влечет моральную асимметрию между счастьем и страданием — это взгляд, согласно которому то, что имеет значение — не интенсивность наших удовольствий, а удовлетворенность, т. е. отсутствие дискомфорта и неисполненных желаний.
 
 Есть много вариаций этого взгляда. Один из них — [антифрустрационизм](https://en.wikipedia.org/wiki/Antifrustrationism), защищаемый Кристофом Фейге. Согласно ему «мы не делаем ничего хорошего, создавая новые удовлетворенные предпочтения. Что важно насчет предпочтений — не то, чтобы они существовали удовлетворенными, а то, чтобы они не существовали неудовлетворенными.» (Fehige, [1998](https://www.fehige.info/pdf/A_Pareto_Principle_for_Possible_People.pdf), p. 518).
 
-Согласно этой точке зрения, удовольствие хорошо лишь в той степени, в какой оно удовлетворяет нарушенные предпочтения, поэтому создание удовольствия не является ценным само по себе (т. е. в неинструментальном смысле — прим. пер.), и на деле часто может не иметь никакой ценности. Страдание, напротив, подразумевает ценность — и, вероятно, представляет собой нарушенное предпочтение, поэтому его предотвращение всегда будет ценным с точки зрения антифрустрационизма.
+Согласно этой точке зрения, удовольствие хорошо лишь в той степени, в какой оно удовлетворяет нарушенные предпочтения, поэтому создание удовольствия не является ценным само по себе (т. е. в [терминальном](https://reducingsuffering.github.io/lukas-gloor-means-and-ends.html) смысле — прим. пер.), и на деле часто может не иметь никакой ценности. Страдание, напротив, подразумевает ценность (отрицательную — прим. пер.) — и, вероятно, представляет собой нарушенное предпочтение, поэтому его предотвращение всегда будет ценным с точки зрения антифрустрационизма.
 
 Майкл Сент-Джулс выражает [схожий взгляд](https://forum.effectivealtruism.org/posts/xwG5MGWsMosBo6u4A/lukas_gloor-s-shortform?commentId=d8HM7P4aHuRTY8CCs) на моральную (не)важность продвижения удовольствия ради него самого:
 
-> что-либо имеет значение, только если оно имеет (или будет иметь) значение для кого-то, а отсутствие удовольствия не обязательно имеет значение для того, кто не испытывает удовольствие, и уж точно не имеет значения для того, кто не существует и не будет существовать, поэтому у нас нет присущих удовольствию причин продвигать его. С другой стороны, страдания нет, пока кто-нибудь не испытывает его, а согласно некоторым определениям страдания \[переживание страдания\] с необходимостью имеет значение для пострадавшего.
+> что-либо имеет значение, только если оно имеет (или будет иметь) значение для кого-то, а отсутствие удовольствия не обязательно имеет значение для того, кто не испытывает удовольствие, и уж точно не имеет значения для того, кто не существует и не будет существовать, поэтому у нас нет присущих самому удовольствию причин продвигать его. С другой стороны, страдания нет, пока кто-нибудь не испытывает его, а согласно некоторым определениям страдания \[переживание страдания\] с необходимостью имеет значение для пострадавшего.
 (St. Jules, 2020)
 
 С этим связан взгляд о том, что «состояние сознания является неоптимальным или проблематичным только в том случае, если оно непосредственно испытывается таковым, а не в том, когда оно не соответствует какому-то внешнему сравнению» (Anonymous, 2015, sec. 2.2.1; Vinding, 2020a, sec. 1.4).
@@ -81,9 +81,9 @@ preview_here: true
 
 ## Общая картина: страдание и счастье как морально ортогональные
 
-В свете приведенных выше аргументов и взглядов кажется естественным предложить картину, согласно которой счастье и страдание морально ортогональны — т.е. ортогональны в условном пространстве моральной важности.
+В свете приведенных выше аргументов и взглядов кажется естественным предложить картину, согласно которой счастье и страдание морально ортогональны — т. е. ортогональны в условном пространстве моральной важности.
 
-Действительно, такая картина ортогональности отражает суть большинства представленных выше взглядов. Например, если мы думаем, что увеличение удовольствия несет такую моральную неотложность и важность, что она лексически (т. е. [всегда](https://en.wikipedia.org/wiki/Lexicographic_preferences)? независимо от количества — прим. пер.) уступает моральной важности уменьшения страданий (ср. Wolf, 1997, Knutsson, 2016c), или если мы считаем, что увеличение удовольствия не несет никакой моральной важности вовсе, получающаяся картина практически та же: моральная важность уменьшения страданий занимает другое, первостепенное моральное измерение по сравнению с моральной (не)важностью увеличения удовольствия.
+Действительно, такая картина ортогональности отражает суть большинства представленных выше взглядов. Например, если мы думаем, что увеличение удовольствия несет такую моральную неотложность и важность, что она лексически уступает (т. е. [всегда](https://en.wikipedia.org/wiki/Lexicographic_preferences), независимо от количества — прим. пер.) моральной важности уменьшения страданий (ср. Wolf, 1997, Knutsson, 2016c), или если мы считаем, что увеличение удовольствия не несет никакой моральной важности вовсе, получающаяся картина практически та же: моральная важность уменьшения страданий занимает другое, первостепенное моральное измерение по сравнению с моральной (не)важностью увеличения удовольствия.
 
 (Для некоторых из представленных выше взглядов, например, для Асимметрии, эта картина может подходить не во всех случаях, но все же отражать суть этих взглядов в случае сравнения страдания и удовольствия для будущих существ, которые в настоящее время еще не существуют, — что, пожалуй, наиболее подходящий в контексте наших приоритетов случай для рассмотрения.)
 
@@ -93,11 +93,11 @@ preview_here: true
 
 Уменьшение страданий представлено красной стрелкой, которая срочно указывает прочь от глубин несчастья, в то время как увеличение счастья символизируется зелёной стрелкой, направленной вбок: двигаться по этому измерению — хорошо, но оно не несет (сопоставимой) моральной срочности. Такова картина, которую мы получаем, если отвергаем идею о том, что удовольствие может морально [перевешивать](https://centerforreducingsuffering.org/on-purported-positive-goods-outweighing-suffering/) страдания.
 
-## Другая картина: “жажда удовольствий” как слегка негативная
+## Другая картина: «жажда удовольствий» как слегка негативная
 
 Некоторые взгляды могут настаивать на более пессимистичном представлении о ценности удовольствия, или по крайней мере некоторых форм удовольствий.
 
-Например, Саймон Кнутссон защищает точку зрения, согласно которой некоторые виды удовольствий — так называемые кинетические удовольствия (удовольствия, связанные с активным преследованием чего-либо) — могут иметь отрицательную ценность. Они противопоставляются катастематическим, или статичным удовольствиям, т.е. состояниям идеального покоя и умиротворения, которые, по утверждению Кнутссона, имеют нейтральную ценность (Knutsson, 2019).
+Например, Саймон Кнутссон защищает точку зрения, согласно которой некоторые виды удовольствий — так называемые кинетические удовольствия (удовольствия, связанные с активным преследованием чего-либо) — могут иметь отрицательную ценность. Они противопоставляются катастематическим, или статичным удовольствиям, т. е. состояниям идеального покоя и умиротворения, которые, по утверждению Кнутссона, имеют нейтральную ценность (Knutsson, 2019).
 
 За Кнутссоном следует Купер (Cooper, 2012), который утверждает, что (по крайней мере некоторые) кинетические удовольствия «скомпрометированы из-за стрессового состояния ума ... связанного с интенсивными желаниями»; что такие удовольствия включают в себя «неудовлетворенность» (в оригинале «frustrated dissatisfaction» — прим. пер.); или что они «смешаны с болью» (Cooper 2012, pp. 237-238, цитата как в Knutsson, 2019). Эти слегка негативные компоненты — то, из-за чего (по крайней мере некоторые) кинетические удовольствия с точки зрения Кнутссона являются отрицательными.
 
@@ -122,11 +122,9 @@ preview_here: true
 
 Изложенные в предыдущем разделе взгляды могут помочь объяснить, почему счастье и страдание иногда считаются морально-симметричными. Согласно этим взглядам, увеличение удовольствия может показаться моральным эквивалентом уменьшения отрицательных состояний, потому что оно на самом деле часто и является уменьшением отрицательных состояний, или по крайней мере приводит к нему. (И, учитывая это, обратите внимание на то, что слова «несчастливый», «неприятный» и «дискомфортный» неизменно относятся к отрицательным, а не нейтральным состояниям.)
 
-Согласно этим взглядам, состояния, которые мы обычно считаем нейтральными, на самом деле склонны содержать досадные компоненты беспокойства, стресса, скуки и т. д. — но мы во многом не замечаем этих видов дискофморта, — отчасти потому, что мы настолько привыкли к ним, а отчасти потому, что они есть у всех (Benatar, 2006, p. 72). Таким образом, согласно этим взглядам, когда мы испытываем удовольствие в том, что наивно представляем в качестве нейтрального состояния, мы на самом деле неправильно интерпретируем освобождение от вышеупомянутых негативных компонентов как достижение действительно позитивного состояния (Gloor, 2017, sec. 2.1). (Я пишу об этом больше в моем эссе «[A phenomenological argument against a positive counterpart to suffering](https://centerforreducingsuffering.org/phenomenological-argument/#Why_we_might_believe_that_a_positive_counterpart_to_suffering_exists)».)
+Согласно этим взглядам, состояния, которые мы обычно считаем нейтральными, на самом деле склонны содержать досадные компоненты беспокойства, стресса, скуки и т. д. — но мы во многом не замечаем этих видов дискофморта, отчасти потому, что мы настолько привыкли к ним, а отчасти потому, что они есть у всех (Benatar, 2006, p. 72). Таким образом, согласно этим взглядам, когда мы испытываем удовольствие в том, что наивно представляем в качестве нейтрального состояния, мы на самом деле неправильно интерпретируем освобождение от вышеупомянутых негативных компонентов как достижение действительно позитивного состояния (Gloor, 2017, sec. 2.1). (Я пишу об этом больше в моем эссе «[A phenomenological argument against a positive counterpart to suffering](https://centerforreducingsuffering.org/phenomenological-argument/#Why_we_might_believe_that_a_positive_counterpart_to_suffering_exists)».)
 
-## Сопротивление асимметрии из-за non sequitur?<sup>*</sup>
-
-\* Non sequitur — это [вид логических ошибок](https://ru.wikipedia.org/wiki/Non_sequitur); в данном случае имеется в виду ошибочное утверждение об истинности предпосылки на основе истинности следствия из нее — прим. пер.
+## Сопротивление асимметрии из-за логических ошибок?
 
 Одна из причин, по которой мы можем чувствовать тягу к утверждению моральной симметрии между счастьем и страданием — это негласное предположение о том, что отказ от такой моральной симметрии обязательно должен быть враждебным продолжению нашего существования. Но такой вывод не обязателен. В конце концов, можно утверждать, что есть и другие моральные ценности помимо страданий и счастья, такие как достижение жизненных целей и проживание добродетельной жизни. Плюралистические взгляды такого рода — обычное дело в среде академических философов.
 
@@ -149,39 +147,39 @@ preview_here: true
 
 ## Ссылки
 
-- Шопенгауэр, А. (1788-1860/1910). Полное собрание сочинений. Т. I. В пер. и под ред. Ю. И. Айхенвальда. [В открытом доступе](https://ru.wikisource.org/wiki/%D0%9C%D0%B8%D1%80_%D0%BA%D0%B0%D0%BA_%D0%B2%D0%BE%D0%BB%D1%8F_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%A8%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D1%83%D1%8D%D1%80;_%D0%90%D0%B9%D1%85%D0%B5%D0%BD%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4)
-- Ajantaival, T. (2021/2022). Minimalist Axiologies. [Ungated](https://forum.effectivealtruism.org/s/MBadsrYLmzLNmYjaj)
-- Ajantaival, T. (2022). Peacefulness, nonviolence, and experientialist minimalism. [Ungated](https://forum.effectivealtruism.org/posts/JnHeeTGAohMFxNbGK/peacefulness-nonviolence-and-experientialist-minimalism)
-- Anonymous. (2015). Negative Utilitarianism FAQ. [Ungated](https://www.utilitarianism.com/nu/nufaq.html)
-- Baumeister, R. et al. (2001). Bad is stronger than good. Review of General Psychology, 5, pp. 323-370.
-- Benatar, D. (1997). Why It Is Better Never to Come into Existence. American Philosophical Quarterly, 34(3), pp. 345-355.
-- Benatar, D. (2006). Better Never to Have Been: The Harm of Coming into Existence. Oxford University Press.
-- Berridge, K. & Robinson, T. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. Am Psychol, 71(8), pp. 670-679.
-- Breyer, D. (2015). The Cessation of Suffering and Buddhist Axiology. Journal of Buddhist Ethics, 22, pp. 533-560. [Ungated](http://blogs.dickinson.edu/buddhistethics/files/2015/12/Breyer-Axiology-final.pdf)
-- Cooper, J. (2012). Pursuits of Wisdom: Six Ways of Life in Ancient Philosophy from Socrates to Plotinus. Princeton University Press.
-- Diener, E. & Emmons, R. (1984). The Independence of Positive and Negative Affect. Journal of Personality and Social Psychology, 47(5), pp. 1105-1117.
-- Fehige, C. (1998). A pareto principle for possible people. In Fehige, C. & Wessels U. (eds.), Preferences. Walter de Gruyter. [Ungated](https://www.fehige.info/pdf/A_Pareto_Principle_for_Possible_People.pdf)
-- Frick, J. (2020). Conditional Reasons and the Procreation Asymmetry. [Ungated](https://onlinelibrary.wiley.com/doi/full/10.1111/phpe.12139)
-- Gloor, L. (2016/2019). The Case for Suffering-Focused Ethics. [Ungated](https://longtermrisk.org/the-case-for-suffering-focused-ethics/)
-- Gloor, L. (2017). Tranquilism. [Ungated](https://longtermrisk.org/tranquilism/)
-- St. Jules, M. (2019). Defending the Procreation Asymmetry with Conditional Interests. [Ungated](https://forum.effectivealtruism.org/posts/2BWQ4NrCEP7a4vzaW/defending-the-procreation-asymmetry-with-conditional)
-- St. Jules, M. (2020). Comment on the goodness of pleasure. [Ungated](https://forum.effectivealtruism.org/posts/xwG5MGWsMosBo6u4A/lukas_gloor-s-shortform?commentId=d8HM7P4aHuRTY8CCs)
-- Knutsson, S. (2015). The ‘Asymmetry’ and extinction thought experiments. [Ungated](https://www.simonknutsson.com/the-asymmetry-and-extinction-thought-experiments)
-- Knutsson, S. (2016a). Measuring happiness and suffering. [Ungated](https://www.simonknutsson.com/measuring-happiness-and-suffering/)
-- Knutsson, S. (2016b). What is the difference between weak negative and non-negative ethical views? [Ungated](https://www.simonknutsson.com/what-is-the-difference-between-weak-negative-and-non-negative-ethical-views/)
-- Knutsson, S. (2016c). Value lexicality. [Ungated](https://www.simonknutsson.com/value-lexicality)
-- Knutsson, S. (2019). Epicurean ideas about pleasure, pain, good and bad. [Ungated](https://www.simonknutsson.com/epicurean-ideas-about-pleasure-pain-good-and-bad/)
-- Knutsson, S. (2021). The world destruction argument. Inquiry, 64(10), pp. 1004-1023. [Ungated](https://www.tandfonline.com/doi/full/10.1080/0020174X.2019.1658631)
-- Mayerfeld, J. (1996). The Moral Asymmetry of Happiness and Suffering. Southern Journal of Philosophy, 34, pp. 317-338.
-- Mayerfeld, J. (1999). Suffering and Moral Responsibility. Oxford University Press.
-- Metzinger, T. (2017). Suffering. In Almqvist, K. & Haag, A. (eds.), The Return of Consciousness. Axel and Margaret Ax:son Johnson Foundation.
-- Popper, K. (1945/2011). The Open Society and Its Enemies. London: Routledge.
-- Schopenhauer, A. (1851/1970). Essays and Aphorisms. Harmondsworth, Eng: Penguin Books.
-- Sherman, T. (2017). Epicureanism: An Ancient Guide to Modern Wellbeing. MPhil dissertation, University of Exeter. [Ungated](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/32103/ShermanT.pdf)
+- Шопенгауэр, А. (1788-1860/1910). [Полное собрание сочинений. Т. I. В пер. и под ред. Ю. И. Айхенвальда](https://ru.wikisource.org/wiki/%D0%9C%D0%B8%D1%80_%D0%BA%D0%B0%D0%BA_%D0%B2%D0%BE%D0%BB%D1%8F_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%A8%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D1%83%D1%8D%D1%80;_%D0%90%D0%B9%D1%85%D0%B5%D0%BD%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4))
+- Ajantaival, T. (2021/2022). [Minimalist Axiologies](https://forum.effectivealtruism.org/s/MBadsrYLmzLNmYjaj)
+- Ajantaival, T. (2022). [Peacefulness, nonviolence, and experientialist minimalism](https://forum.effectivealtruism.org/posts/JnHeeTGAohMFxNbGK/peacefulness-nonviolence-and-experientialist-minimalism)
+- Anonymous. (2015). [Negative Utilitarianism FAQ](https://www.utilitarianism.com/nu/nufaq.html)
+- Baumeister, R. et al. (2001). Bad is stronger than good. Review of General Psychology, 5, pp. 323-370
+- Benatar, D. (1997). Why It Is Better Never to Come into Existence. American Philosophical Quarterly, 34(3), pp. 345-355
+- Benatar, D. (2006). Better Never to Have Been: The Harm of Coming into Existence. Oxford University Press
+- Berridge, K. & Robinson, T. (2016). Liking, wanting, and the incentive-sensitization theory of addiction. Am Psychol, 71(8), pp. 670-679
+- Breyer, D. (2015). [The Cessation of Suffering and Buddhist Axiology. Journal of Buddhist Ethics, 22, pp. 533-560](http://blogs.dickinson.edu/buddhistethics/files/2015/12/Breyer-Axiology-final.pdf)
+- Cooper, J. (2012). Pursuits of Wisdom: Six Ways of Life in Ancient Philosophy from Socrates to Plotinus. Princeton University Press
+- Diener, E. & Emmons, R. (1984). The Independence of Positive and Negative Affect. Journal of Personality and Social Psychology, 47(5), pp. 1105-1117
+- Fehige, C. (1998). [A pareto principle for possible people. In Fehige, C. & Wessels U. (eds.), Preferences. Walter de Gruyter](https://www.fehige.info/pdf/A_Pareto_Principle_for_Possible_People.pdf)
+- Frick, J. (2020). [Conditional Reasons and the Procreation Asymmetry](https://onlinelibrary.wiley.com/doi/full/10.1111/phpe.12139)
+- Gloor, L. (2016/2019). [The Case for Suffering-Focused Ethics](https://longtermrisk.org/the-case-for-suffering-focused-ethics/)
+- Gloor, L. (2017). [Tranquilism](https://longtermrisk.org/tranquilism/)
+- St. Jules, M. (2019). [Defending the Procreation Asymmetry with Conditional Interests](https://forum.effectivealtruism.org/posts/2BWQ4NrCEP7a4vzaW/defending-the-procreation-asymmetry-with-conditional)
+- St. Jules, M. (2020). [Comment on the goodness of pleasure](https://forum.effectivealtruism.org/posts/xwG5MGWsMosBo6u4A/lukas_gloor-s-shortform?commentId=d8HM7P4aHuRTY8CCs)
+- Knutsson, S. (2015). [The ‘Asymmetry’ and extinction thought experiments](https://www.simonknutsson.com/the-asymmetry-and-extinction-thought-experiments)
+- Knutsson, S. (2016a). [Measuring happiness and suffering](https://www.simonknutsson.com/measuring-happiness-and-suffering/)
+- Knutsson, S. (2016b). [What is the difference between weak negative and non-negative ethical views?](https://www.simonknutsson.com/what-is-the-difference-between-weak-negative-and-non-negative-ethical-views/)
+- Knutsson, S. (2016c). [Value lexicality](https://www.simonknutsson.com/value-lexicality)
+- Knutsson, S. (2019). [Epicurean ideas about pleasure, pain, good and bad](https://www.simonknutsson.com/epicurean-ideas-about-pleasure-pain-good-and-bad/)
+- Knutsson, S. (2021). [The world destruction argument. Inquiry, 64(10), pp. 1004-1023](https://www.tandfonline.com/doi/full/10.1080/0020174X.2019.1658631)
+- Mayerfeld, J. (1996). The Moral Asymmetry of Happiness and Suffering. Southern Journal of Philosophy, 34, pp. 317-338
+- Mayerfeld, J. (1999). Suffering and Moral Responsibility. Oxford University Press
+- Metzinger, T. (2017). Suffering. In Almqvist, K. & Haag, A. (eds.), The Return of Consciousness. Axel and Margaret Ax:son Johnson Foundation
+- Popper, K. (1945/2011). The Open Society and Its Enemies. London: Routledge
+- Schopenhauer, A. (1851/1970). Essays and Aphorisms. Harmondsworth, Eng: Penguin Books
+- Sherman, T. (2017). [Epicureanism: An Ancient Guide to Modern Wellbeing. MPhil dissertation, University of Exeter](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/32103/ShermanT.pdf)
 - Shriver, A. (2014). The Asymmetrical Contributions of Pleasure and Pain To Animal Welfare. Cambridge Quarterly of Healthcare Ethics, 23(2), pp. 152-162. [Ungated draft version](https://philarchive.org/archive/SHRTACv1)
-- Tomasik, B. (2015). Are Happiness and Suffering Symmetric? [Ungated](https://reducing-suffering.org/happiness-suffering-symmetric/)
-- Tomasik, B. (2016). How Cravings Influence Happiness-vs.-Suffering Trades. [Ungated](https://www.youtube.com/watch?v=b44HmBLHI4w)
-- Vinding, M. (2020a). Suffering-Focused Ethics: Defense and Implications. Ratio Ethica. [Ungated](https://magnusvinding.files.wordpress.com/2020/05/suffering-focused-ethics.pdf)
-- Vinding, M. (2020b). On purported positive goods “outweighing” suffering. [Ungated](https://centerforreducingsuffering.org/on-purported-positive-goods-outweighing-suffering/)
-- Wolf, C. (1997). Person-Affecting Utilitarianism and Population Policy. In Heller, J. & Fotion, N. (eds.), Contingent Future Persons. Dordrecht Boston: Kluwer Academic Publishers. [Ungated](https://web.archive.org/web/20190410204154/https://jwcwolf.public.iastate.edu/Papers/JUPE.HTM)
-- Wolf, C. (2019). Panel: Humanity and the Future. [Ungated](https://www.youtube.com/watch?v=fynvFPrhj2E)
+- Tomasik, B. (2015). [Are Happiness and Suffering Symmetric?](https://reducing-suffering.org/happiness-suffering-symmetric/)
+- Tomasik, B. (2016). [How Cravings Influence Happiness-vs.-Suffering Trades](https://www.youtube.com/watch?v=b44HmBLHI4w)
+- Vinding, M. (2020a). [Suffering-Focused Ethics: Defense and Implications. Ratio Ethica](https://magnusvinding.files.wordpress.com/2020/05/suffering-focused-ethics.pdf)
+- Vinding, M. (2020b). [On purported positive goods “outweighing” suffering](https://centerforreducingsuffering.org/on-purported-positive-goods-outweighing-suffering/)
+- Wolf, C. (1997). [Person-Affecting Utilitarianism and Population Policy. In Heller, J. & Fotion, N. (eds.), Contingent Future Persons. Dordrecht Boston: Kluwer Academic Publishers](https://web.archive.org/web/20190410204154/https://jwcwolf.public.iastate.edu/Papers/JUPE.HTM)
+- Wolf, C. (2019). [Panel: Humanity and the Future](https://www.youtube.com/watch?v=fynvFPrhj2E)
