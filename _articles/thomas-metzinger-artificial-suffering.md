@@ -8,6 +8,8 @@ original_date: 2021.02.19
 translated_by: "Евгений Вдовин (для <a href=\"https://vk.com/wall-210202656_1\">SciBooks</a>)"
 edited_by: К. Кирдан
 license: ["CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/deed.ru"]
+preview: assets/images/previews/ai-generated-8563259_1280.jpg
+preview_here: true
 ---
 **Аннотация**
 
