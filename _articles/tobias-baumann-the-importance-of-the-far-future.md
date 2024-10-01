@@ -50,7 +50,7 @@ preview_here: true
 
 Эта статья входит в серию статей, ранее публиковавшихся на [Sentience Politics](https://sentience-politics.org/):
 
-1. [The Case Against Speciesism](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-case-against-speciesism/)
+1. [Против видовой дискриминации](tobias-baumann-the-case-against-speciecism.html)
 2. [Альтруизм, числа и промышленное животноводство](tobias-baumann-altruism-numbers-and-factory-farms.html)
 3. [Effective Strategies](https://centerforreducingsuffering.org/sentience-politics-series-introduction/effective-strategies-to-reduce-animal-suffering/)
 4. [The Relevance of Wild Animal Suffering](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-relevance-of-wild-animal-suffering/)
