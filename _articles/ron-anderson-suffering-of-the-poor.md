@@ -10,7 +10,9 @@ original_date:
   - 2014.06.08
 license:
   - CC BY-NC-SA 3.0 US
-  - https://creativecommons.org/licenses/by-nc-sa/3.0/us/deed.ru
+  - https://creativecommons.org/licenses/by-nc-sa/3.0/us/deed.ru  
+preview: assets/images/previews/man-1550501_1280.jpg
+preview_here: true
 ---
 **Страдание в словесных картинах:** Хотя крайняя бедность обычно ассоциируется у нас с другими частями света, ее можно встретить в трагических пропорциях и в богатых странах, особенно в Соединенных Штатах.
 
