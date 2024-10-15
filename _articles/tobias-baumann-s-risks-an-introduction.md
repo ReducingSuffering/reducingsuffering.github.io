@@ -7,7 +7,7 @@ translated_by: К. Кирдан
 original: https://centerforreducingsuffering.org/research/intro/
 original_date: 
   - 2017
-preview:
+preview: assets/images/previews/tobias-baumann-s-risks-an-introduction.jpg
 preview_here: true
 ---
 ## Аннотация
