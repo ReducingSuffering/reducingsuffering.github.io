@@ -8,6 +8,8 @@ original: https://s-risks.org/summary-of-eric-drexlers-work-on-reframing-ai-safe
 original_date:
   - 2017 
   - 2020.05.21
+preview: assets/images/previews/ai-generated-8001027-.jpg
+preview_here: true
 ---
 <div markdown="1">
 В этом посте содержится краткое изложение основных положений работы «[Reframing Superintelligence: Comprehensive AI Services as General Intelligence](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)» Эрика Дрекслера. (Я написал его в 2017 году, так что оно не обязательно отражает самую актуальную версию его работы.)
