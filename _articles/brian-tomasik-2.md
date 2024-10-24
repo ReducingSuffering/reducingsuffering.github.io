@@ -59,6 +59,6 @@ preview_here: true
 
 [^3]: См. «[Ментальные преступления](https://arbital-ru.github.io/p/mindcrime/)», «[Искусственное страдание](https://reducingsuffering.github.io/thomas-metzinger-artificial-suffering.html)» Томаса Метцингера и «[What Are Suffering Subroutines?](https://reducing-suffering.org/what-are-suffering-subroutines/)» Брайана Томасика для примеров проблем, над которыми можно работать — прим. пер.
 
-[^4]: См. «[Почему мы должны оставаться кооперативными](https://reducingsuffering.github.io/brian-tomasik-1.html)» Брайана Томасика и «[Peacefulness, nonviolence, and experientialist minimalism](https://forum.effectivealtruism.org/posts/JnHeeTGAohMFxNbGK/peacefulness-nonviolence-and-experientialist-minimalism)» Тео Аджантайваля — прим. пер.
+[^4]: Для причин избегать конфронтации см. «[Почему мы должны оставаться кооперативными](https://reducingsuffering.github.io/brian-tomasik-1.html)» Брайана Томасика, «[Why altruists should be cooperative](https://centerforreducingsuffering.org/research/why-altruists-should-be-cooperative/)»  Магнуса Виндинга и «[Peacefulness, nonviolence, and experientialist minimalism](https://forum.effectivealtruism.org/posts/JnHeeTGAohMFxNbGK/peacefulness-nonviolence-and-experientialist-minimalism)» Тео Аджантайваля — прим. пер.
 
 [^5]: См. «[Suffering-Focused AI Safety: In Favor of “Fail-Safe” Measures](https://longtermrisk.org/files/fail-safe-ai.pdf)» — прим. пер.
