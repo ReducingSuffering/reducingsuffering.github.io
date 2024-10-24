@@ -1,5 +1,7 @@
 <h1>{{ include.article.title }}</h1>
 {% if include.article.subtitle %}<h2>{{ include.article.subtitle }}</h2>{% endif %}
-{% assign b = "" %}{% for a in include.article.authors %}{% assign c = a | replace: " ", "_" %}{% assign b = b | append: "<a href='tags.html#" | append: c | append: "'>" | append: a | append: "</a>" %}{% endfor %}
-<div class="article-info">{{ include.article.original_date | join: " — " }} &#8195 <b>{{ b | join: ", " }}</b></div>
+<div class="article-info">{{ include.article.original_date | join: " — " }} &#8195 <b>
+{% if include.article.authors %}{% assign b = include.article.authors[0] %}
+{% for a in include.article.authors %}{% assign c = a | replace: " ", "_" %}{% if a != b %}, {% endif %}{{ "<a href='tags.html#" | append: c | append: "'>" | append: a | append: "</a>" }}{% endfor %}
+{% endif %}</b></div>
 <hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
