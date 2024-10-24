@@ -3,7 +3,7 @@
 <span class="post-tags">
   Оригинал: <a href="{{ include.article.original }}">{{ include.article.original }}</a><br>
   {% if include.article.license %}Лицензия: <a href="{{ include.article.license[1] }}">{{ include.article.license[0] }}</a><br>{% endif %}
-  {% if include.article.translated_by %}Перевод: {% if include.article.translated_by == "К. Кирдан" %}<a href="https://kkirdan.github.io/">К. Кирдан</a>{% else %}{{ include.article.translated_by | join: ", " }}{% endif %}<br>{% endif %}
+  {% if include.article.translated_by %}Перевод: {% if include.article.translated_by == "К. Кирдан" %}<a href="https://kkirdan.github.io/">К. Кирдан</a>{% else %}{{ include.article.translated_by | join: ", " }}{% endif %}{% if include.article.translation_details %} ({{ include.article.translation_details }}){% endif %}<br>{% endif %}
   {% if include.article.edited_by %}Редактура: {{ include.article.edited_by | join: ", " }}{% if include.article.edited_what %} ({{ include.article.edited_what }}){% endif %}<br>{% endif %}
   {% if include.article.last_update %}Последнее обновление: {{ include.article.last_update }}<br>{% endif %}
   {{ include.article.comment }}
