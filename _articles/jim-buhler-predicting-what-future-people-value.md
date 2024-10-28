@@ -4,7 +4,7 @@ title: "Что будут ценить люди будущего? Сжатое �
 authors:
   - Джим Бюлер
 original_date: 2023.03.25
-original: https://forum.effectivealtruism.org/posts/FCkchmXcSCQtJ9PZA/predicting-what-future-people-value-a-terse-introduction-to
+original: https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/FCkchmXcSCQtJ9PZA
 translated_by: К. Кирдан
 ---
 ## Почему это стоит исследовать
