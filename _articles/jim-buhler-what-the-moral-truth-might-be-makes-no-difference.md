@@ -4,7 +4,7 @@ title: "Для предсказания будущего неважно, как�
 authors:
   - Джим Бюлер
 original_date: 2023.04.09
-original: https://forum.effectivealtruism.org/posts/hat6TafzAoDx97N6j/what-the-moral-truth-might-be-makes-no-difference-to-what
+original: https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/hat6TafzAoDx97N6j
 translated_by: К. Кирдан
 math: true
 ---
