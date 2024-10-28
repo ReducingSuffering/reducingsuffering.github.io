@@ -3,7 +3,7 @@ layout: article
 title: Суть твоя — физика
 authors:
   - Элиезер Юдковский
-original_date: 2008-06-06
+original_date: 2008.06.06
 original: https://www.readthesequences.com/Thou-Art-Physics
 original2: https://www.lesswrong.com/posts/NEeW7eSXThPz7o4Ne/thou-art-physics
 translated_by: К. Кирдан
