@@ -13,7 +13,7 @@ preview: https://magnusvinding.com/wp-content/uploads/2022/08/sow-stall-1.jpeg
 ---
 <img src="https://magnusvinding.com/wp-content/uploads/2022/08/sow-stall-1.jpeg"/>
 
-Ниже приводится слегка отредактированный отрывок из моей книги «‎[Effective Altruism: How Can We Best Help Others?](https://www.smashwords.com/books/view/874692)» (2018/2022).
+Ниже приводится слегка отредактированный отрывок из моей книги «[Effective Altruism: How Can We Best Help Others?](https://www.smashwords.com/books/view/874692)» (2018/2022).
 
 ---
 
