@@ -5,7 +5,7 @@ authors:
   - Патрик Форбер
   - Рори Смид
 vk: 
-translated_by: Александр Баженов
+translated_by: Александр Баженов (для <a href="https://ubq124.wordpress.com/">Matter & Mind</a>)
 original: https://aeon.co/ideas/punishment-isnt-about-the-common-good-its-about-spite
 original_date:
   - 2018.11.09
