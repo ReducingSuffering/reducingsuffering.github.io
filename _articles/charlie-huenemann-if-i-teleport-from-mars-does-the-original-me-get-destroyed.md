@@ -3,7 +3,6 @@ layout: article
 title: Если я телепортируюсь с Марса, разрушится ли моя оригинальная версия?
 authors:
   - Чарли Хьюнеман
-vk: 
 translated_by: Александр Баженов
 original: https://aeon.co/ideas/if-i-teleport-from-mars-does-the-original-me-get-destroyed
 original_date:
@@ -11,9 +10,9 @@ original_date:
 license:
   - CC BY-ND 4.0
   - https://creativecommons.org/licenses/by-nd/4.0/deed.ru
-preview: https://aeon.co/_next/image?url=https%3A%2F%2Falpha.aeon.co%2Fimages%2F193eda8e-4e68-4d62-8fc1-f49034e26722%2Fidea_sized-v2-spacex_mars_tourism_poster_for_phobos_and_deimos.jpg&w=1920&q=75
+preview: https://images.aeonmedia.co/images/193eda8e-4e68-4d62-8fc1-f49034e26722/sized-v2-spacex_mars_tourism_poster_for_phobos_and_deimos.jpg
 ---
-![](https://aeon.co/_next/image?url=https%3A%2F%2Falpha.aeon.co%2Fimages%2F193eda8e-4e68-4d62-8fc1-f49034e26722%2Fidea_sized-v2-spacex_mars_tourism_poster_for_phobos_and_deimos.jpg&w=1920&q=75)
+![](https://images.aeonmedia.co/images/193eda8e-4e68-4d62-8fc1-f49034e26722/sized-v2-spacex_mars_tourism_poster_for_phobos_and_deimos.jpg)
 
 Я застрял на Марсе. Топливные баки моего звездолёта повреждены, и никакая спасательная служба не успеет спасти меня до того, как я умру с голода. (И, в отличии от героя фильма «Марсианин», у меня нет картофеля). К счастью, моё судно оснащено телепортом. Это устройство, разумеется, очень сложно, но лежащая в его основе идея проста: машина просканирует моё тело и создаст удивительно точный план — чистую картину каждой моей клетки и нейрона и их расположения в пространстве. А файл этого отпечатка посредством луча отправится на Землю, где из сырьевых материалов соберётся новый я. Всё, что я должен сделать, — это зайти в кабинку, закрыть глаза и нажать на красную кнопку.
 
