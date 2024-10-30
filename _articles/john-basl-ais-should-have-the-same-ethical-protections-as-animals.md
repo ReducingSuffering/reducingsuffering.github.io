@@ -10,9 +10,9 @@ original: https://aeon.co/ideas/ais-should-have-the-same-ethical-protections-as-
 translated_by: К. Кирдан
 original_date:
   - "2019.04.26"
-preview: https://images.aeonmedia.co/images/f1f454b7-b46c-44f9-bf7b-ea6667b1adef/sized-robot-dog.jpg?width=828&quality=75&format=auto
+preview: https://images.aeonmedia.co/images/f1f454b7-b46c-44f9-bf7b-ea6667b1adef/sized-robot-dog.jpg
 ---
-<center><img src="https://images.aeonmedia.co/images/f1f454b7-b46c-44f9-bf7b-ea6667b1adef/sized-robot-dog.jpg?width=828&quality=75&format=auto"/></center>
+<center><img src="https://images.aeonmedia.co/images/f1f454b7-b46c-44f9-bf7b-ea6667b1adef/sized-robot-dog.jpg"/></center>
 
 Университеты по всему миру проводят крупные исследования в области искусственного интеллекта (ИИ), также как организации, такие как Институт Аллена, и технологические компании, включая Google и Facebook. Вероятным результатом станет то, что вскоре у нас будет ИИ с приблизительно таким же уровнем когнитивного развития, как у мышей или собак. Сейчас самое время начать думать о том, заслуживают ли такие ИИ, и при каких условиях, той этической защиты, которую мы обычно предоставляем животным.
 
