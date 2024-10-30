@@ -3,7 +3,7 @@ layout: article
 title: Если я телепортируюсь с Марса, разрушится ли моя оригинальная версия?
 authors:
   - Чарли Хьюнеман
-translated_by: Александр Баженов
+translated_by: Александр Баженов (для <a href="https://ubq124.wordpress.com/">Matter & Mind</a>)
 original: https://aeon.co/ideas/if-i-teleport-from-mars-does-the-original-me-get-destroyed
 original_date:
   - 2017.08.01
