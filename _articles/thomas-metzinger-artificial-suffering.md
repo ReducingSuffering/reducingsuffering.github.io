@@ -2,7 +2,8 @@
 layout: article
 title: "Искусственное страдание: аргумент в пользу глобального моратория на синтетическую феноменологию"
 vk: https://vk.com/@-210202656-iskusstvennoe-stradanie-argument-v-polzu-globalnogo-moratori
-authors: "Томас Метцингер"
+authors: 
+ - Томас Метцингер
 original: https://www.worldscientific.com/doi/10.1142/S270507852150003X
 original_date: 2021.02.19
 translated_by: "Евгений Вдовин (для <a href=\"https://vk.com/wall-210202656_1\">SciBooks</a>)"
