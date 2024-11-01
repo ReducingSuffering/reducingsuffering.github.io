@@ -6,6 +6,7 @@ authors:
 original_date: 2023.03.25
 original: https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/FCkchmXcSCQtJ9PZA
 translated_by: К. Кирдан
+preview: "https://res.cloudinary.com/cea/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/a03svai0kpmxvwukxcou"
 ---
 ## Почему это стоит исследовать
 
