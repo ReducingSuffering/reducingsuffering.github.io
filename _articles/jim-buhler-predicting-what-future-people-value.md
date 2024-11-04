@@ -75,7 +75,7 @@ preview: "https://res.cloudinary.com/cea/image/upload/c_fill,ar_1.91,g_auto/Soci
   - Robin Hanson (2018) [Longviews are coming](https://www.overcomingbias.com/p/long-views-are-cominghtml)
   - Yuval Noah Harari (2016) [Homo Deus](https://books.google.co.uk/books?hl=en&lr=&id=ZWcNDQAAQBAJ&oi=fnd&pg=PA1&ots=-ETYkeIBQ5&sig=FlFk1A9hxymM0BPuY1Y_cG4mmWw&redir_esc=y)
   - «The “Consciousness vs. Pure Replicators” Worldview» в Emilsson ([2017](https://qualiacomputing.com/2017/12/20/the-universal-plot-part-i-consciousness-vs-pure-replicators/))
-  - Следующие посты этой цепочки (не все еще опубликованы).
+  - Следующие посты этой цепочки.
   - Anders Sandberg (планируется) Grand Futures
 - О возможности, вероятности и последствиях фиксации ценностей / дрейфа ценностей:
   - Lukas Finnveden et al. (2022) [AGI and Lock-In](https://forum.effectivealtruism.org/posts/KqCybin8rtfP3qztq/agi-and-lock-in); и работы, на которые они ссылаются в разделе «[How likely is this?](https://docs.google.com/document/d/1mkLFhxixWdT5peJHq4rfFzq4QbHyfZtANH1nou68q88/edit#heading=h.17f05s8r0u3q)»
