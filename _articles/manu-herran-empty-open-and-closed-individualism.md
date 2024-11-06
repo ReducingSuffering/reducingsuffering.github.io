@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Пустой, открытый и закрытый индивидуализм
+title: "Пустой, открытый и закрытый индивидуализм"
 vk: https://vk.com/wall-199052526_328
 authors:
   - Ману Эрран
@@ -8,9 +8,9 @@ original: https://manuherran.com/empty-open-and-closed-individualism/
 original_date:
   - 2018.07.09
   - "2018.08"
-translated_by: "Александр Баженов (для <a href="https://ubq124.wordpress.com/">Matter & Mind</a>)"
+translated_by: "Александр Баженов (для <a href=\"https://ubq124.wordpress.com/\">Matter & Mind</a>)"
 edited_by: К. Кирдан
-comment: "Также доступна <a href="https://www.youtube.com/watch?v=Tl_4Di5oMaw">озвученная</a> неотредактированная версия."
+comment: "Также доступна <a href=\"https://www.youtube.com/watch?v=Tl_4Di5oMaw\">озвученная</a> неотредактированная версия."
 preview: /assets/images/articles/LlPwm1Y0t24.jpg
 preview_here: true
 ---
