@@ -1,17 +1,16 @@
 ---
 layout: article
-title: Наказание — скорее злоба, чем общее благо
+title: "Наказание — скорее злоба, чем общее благо"
 authors:
   - Патрик Форбер
   - Рори Смид
-vk: 
-translated_by: Александр Баженов (для <a href="https://ubq124.wordpress.com/">Matter & Mind</a>)
+translated_by: "Александр Баженов (для <a href=\"https://ubq124.wordpress.com/\">Matter & Mind</a>)"
 original: https://aeon.co/ideas/punishment-isnt-about-the-common-good-its-about-spite
 original_date:
   - 2018.11.09
 edited_by: К. Кирдан
 last_update: 2023.10.07
-comment: "Также доступна <a href="https://www.youtube.com/watch?v=Op_ZPl2H-S8">озвученная</a> неотредактированная версия."
+comment: "Также доступна <a href=\"https://www.youtube.com/watch?v=Op_ZPl2H-S8\">озвученная</a> неотредактированная версия."
 ---
 Представьте, что кто-то был пойман на жульничестве во время игры в покер. Что дальше? После предъявления обвинений и попытки оправдаться мошенник обычно подвергается какой-либо форме ущерба — конфискации выигрыша, насмешкам или остракизму. Возможно, это справедливо: большинство людей считают, что мошенники заслуживают наказания.
 
