@@ -85,6 +85,6 @@ preview: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vaci_de_rasa_
 1. [Против видовой дискриминации](tobias-baumann-the-case-against-speciesism.html)
 2. Альтруизм, числа и промышленное животноводство
 3. [Effective Strategies](https://centerforreducingsuffering.org/sentience-politics-series-introduction/effective-strategies-to-reduce-animal-suffering/)
-4. [The Relevance of Wild Animal Suffering](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-relevance-of-wild-animal-suffering/)
+4. [Проблема страданий диких животных](tobias-baumann-the-relevance-of-wild-animal-suffering.html)
 5. [Важность далекого будущего](tobias-baumann-the-importance-of-the-far-future.html)
 6. [The Benefits of Cause-Neutrality](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-benefits-of-cause-neutrality/)

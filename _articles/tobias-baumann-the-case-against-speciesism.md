@@ -51,6 +51,6 @@ preview_here: true
 1. Против видовой дискриминации
 2. [Альтруизм, числа и промышленное животноводство](tobias-baumann-altruism-numbers-and-factory-farms.html)
 3. [Effective Strategies](https://centerforreducingsuffering.org/sentience-politics-series-introduction/effective-strategies-to-reduce-animal-suffering/)
-4. [The Relevance of Wild Animal Suffering](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-relevance-of-wild-animal-suffering/)
+4. [Проблема страданий диких животных](tobias-baumann-the-relevance-of-wild-animal-suffering.html)
 5. [Важность далекого будущего](tobias-baumann-the-importance-of-the-far-future.html)
 6. [The Benefits of Cause-Neutrality](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-benefits-of-cause-neutrality/)
