@@ -6,7 +6,7 @@ authors:
 translated_by: К. Кирдан
 original: https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-relevance-of-wild-animal-suffering/
 original_date: 2018.11.26
-preview: assets/images/previews/cheetahs-5817934_1280.jpg
+preview: assets/images/previews/cheetahs-5817934.jpg
 preview_here: true
 ---
 > Общее количество страданий в год в естественном мире находится за пределами всякого благопристойного разумения. В течение минуты, пока я пишу это предложение, тысячи животных съедаются заживо; другие спасаются бегством, скуля от страха; третьи медленно пожираются изнутри скребущимися паразитами; тысячи всех видов умирают от голода, жажды и болезней.
