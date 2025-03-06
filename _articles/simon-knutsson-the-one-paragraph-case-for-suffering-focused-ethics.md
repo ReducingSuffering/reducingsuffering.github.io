@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#23"
+title: "█████ █ ████ █████ в пользу этики, сфокусированной на страдании"
 authors:
 vk: https://vk.com/wall-199052526_23
 telegram: https://t.me/reducing_suffering/15
