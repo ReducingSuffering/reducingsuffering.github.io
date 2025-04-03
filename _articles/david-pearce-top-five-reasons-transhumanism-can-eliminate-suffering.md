@@ -7,7 +7,7 @@ translated_by: К. Кирдан
 original: https://www.hedweb.com/transhumanism/five-reasons.html
 original_date:
   - 2010.10.21
-preview: assets/images/previews/top-five-reasons-transhumanism-can-eliminate-suffering.jpg
+preview: https://www.hedweb.com/transhumanism/transhumanism.jpg
 comment: "Добавлены ссылки на Википедию"
 ---
 <img src="https://www.hedweb.com/transhumanism/transhumanism.jpg"/>
