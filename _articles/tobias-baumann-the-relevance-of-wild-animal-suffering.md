@@ -8,7 +8,10 @@ original: https://centerforreducingsuffering.org/sentience-politics-series-intro
 original_date: 2018.11.26
 preview: assets/images/previews/cheetahs-5817934.jpg
 preview_here: true
+excerpt: "«Общее количество страданий в год в естественном мире находится за пределами всякого благопристойного разумения. В течение минуты, пока я пишу это предложение, тысячи животных съедаются заживо; другие спасаются бегством, скуля от страха; третьи медленно пожираются изнутри скребущимися паразитами; тысячи всех видов умирают от голода, жажды и болезней.» — Ричард Докинз, Река из Рая"
 ---
+_\[Изначально эта статья была опубликована [Sentience Politics](https://sentience-politics.org/). Она не обязательно отражает текущее мнение автора.\]_
+
 > Общее количество страданий в год в естественном мире находится за пределами всякого благопристойного разумения. В течение минуты, пока я пишу это предложение, тысячи животных съедаются заживо; другие спасаются бегством, скуля от страха; третьи медленно пожираются изнутри скребущимися паразитами; тысячи всех видов умирают от голода, жажды и болезней.
 > 
 > — Ричард Докинз, Река из Рая
@@ -69,7 +72,7 @@ preview_here: true
 
 1. [Против видовой дискриминации](tobias-baumann-the-case-against-speciecism.html)
 2. [Альтруизм, числа и промышленное животноводство](tobias-baumann-altruism-numbers-and-factory-farms.html)
-3. [Effective Strategies](https://centerforreducingsuffering.org/sentience-politics-series-introduction/effective-strategies-to-reduce-animal-suffering/)
+3. [Как эффективно уменьшить страдания животных](tobias-baumann-effective-strategies-to-reduce-animal-suffering.html)
 4. Проблема страданий диких животных
 5. [Важность далекого будущего](tobias-baumann-the-importance-of-the-far-future.html)
 6. [The Benefits of Cause-Neutrality](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-benefits-of-cause-neutrality/)
