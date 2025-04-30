@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Животноводство: распределенное зло"
+title: "Животноводство: распределённое зло"
 authors:
   - Магнус Виндинг
 original: https://magnusvinding.blogspot.com/2014/08/animal-agriculture-distributed-evil.html
