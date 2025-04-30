@@ -8,6 +8,7 @@ translated_by: К. Кирдан
 original_date:
   - "2014.08.07"
 preview: https://4.bp.blogspot.com/-mcBI2-WPaHk/U-QghlfzLuI/AAAAAAAADHM/hLl045czFtM/s1600/tumblr_magkhuSjf21rxmio6o1_500.jpg
+excerpt: "Сколько из нас согласились бы убить нечеловеческое существо, которое мы сами вырастили, если у нас не будет абсолютно никакой необходимости его есть? Я уверен, что меньшинство. Сколько из нас согласится заплатить другим людям за то, чтобы они вырастили и убили нечеловеческое существо, если у нас нет необходимости его есть? Ответ, к сожалению, — все те люди, что покупают и едят мясо. То есть подавляющее большинство из нас."
 ---
 <center><img src="https://4.bp.blogspot.com/-mcBI2-WPaHk/U-QghlfzLuI/AAAAAAAADHM/hLl045czFtM/s1600/tumblr_magkhuSjf21rxmio6o1_500.jpg"/></center>
 
