@@ -7,7 +7,7 @@ original: https://centerforreducingsuffering.org/research/why-altruists-should-b
 translated_by: К. Кирдан
 original_date:
   - "2020"
-preview: 
+preview: assets/images/previews/magnus-vinding-why-altruists-should-be-cooperative.jpg
 ---
 ## Аннотация
 
