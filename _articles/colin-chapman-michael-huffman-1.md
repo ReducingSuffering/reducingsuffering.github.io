@@ -4,7 +4,7 @@ title: "Уникальны ли люди?"
 authors:
   - Колин Чапман
   - Майкл Хаффман
-original: https://www.wellbeingintlstudiesrepository.org/cgi/viewcontent.cgi?article=1358&context=animsent
+original: https://www.wellbeingintlstudiesrepository.org/animsent/vol3/iss23/1/
 original_date:
   - 2018
 translated_by: К. Кирдан
