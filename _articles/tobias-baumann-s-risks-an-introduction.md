@@ -50,7 +50,7 @@ preview_here: true
 
 ## Как могут реализоваться s-риски
 
-_См. также: [Типология s-рисков](tobias-baumann-a-typology-of-s-risks.html), [Risk factors for s-risks](https://centerforreducingsuffering.org/risk-factors-for-s-risks/)_
+_См. также: [Типология s-рисков](tobias-baumann-a-typology-of-s-risks.html), [Факторы риска для s-рисков](tobias-baumann-risk-factors-for-s-risks.html)_
 
 Всегда трудно представлять, как могут выглядеть будущие разработки. Рыцари Средневековья не могли представить себе атомную бомбу. Соответственно, приводимые ниже примеры — просто обоснованные спекуляции.
 
