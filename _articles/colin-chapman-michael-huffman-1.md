@@ -2,8 +2,8 @@
 layout: article
 title: "Почему мы хотим думать, что люди отличаются?"
 authors:
-  - Колин Чапман
-  - Майкл Хаффман
+  - Колин Чапмен
+  - Майкл Хаффмен
 original: https://www.wellbeingintlstudiesrepository.org/animsent/vol3/iss23/1/
 original_date:
   - 2018
