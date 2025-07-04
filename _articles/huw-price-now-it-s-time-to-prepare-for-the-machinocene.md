@@ -7,7 +7,7 @@ original: https://aeon.co/ideas/now-it-s-time-to-prepare-for-the-machinocene
 original_date:
   - 2016.10.17
 translated_by: К. Кирдан
-preview: https://images.aeonmedia.co/images/b5d94021-d327-440b-85ef-57f17a3f94f6/sized-mikael-hvidtfeldt-christensen-15576455834_faa4c5b69d_o.jpg?width=828&quality=75&format=auto
+preview: assets/images/previews/a1db7b54-316d-4110-bd20-4c66e3b621c9.jpg
 ---
 Интеллект человеческого уровня знаком нам по биологическому "железу" — вы пользуетесь им прямо сейчас. Похоже, что наука и технологии с нескольких направлений сходятся к возможности создания подобного интеллекта в небиологических системах. Трудно предсказать, когда это может произойти, но большинство специалистов по искусственному интеллекту (ИИ) [считают](http://philpapers.org/rec/MLLFPI), что это скорее произойдет в течение нынешнего столетия, чем нет.
 
