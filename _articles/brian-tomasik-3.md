@@ -9,7 +9,7 @@ original_date:
   - 2018.06.18
 translated_by: К. Кирдан
 is_fragment: true
-preview: 
+preview: assets/images/previews/simulation.jpg
 preview_here: true
 ---
 (Это отрывок из статьи «[Thoughts Regarding the Simulation Hypothesis](https://reducing-suffering.org/thoughts-regarding-simulation-hypothesis)».)
