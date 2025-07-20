@@ -10,6 +10,7 @@ translated_by: К. Кирдан
 original_date:
   - "2022.08.05"
 preview: https://magnusvinding.com/wp-content/uploads/2022/08/sow-stall-1.jpeg
+excerpt: "Ниже приводится слегка отредактированный отрывок из моей книги «Effective Altruism: How Can We Best Help Others?» (2018/2022)."
 ---
 <img src="https://magnusvinding.com/wp-content/uploads/2022/08/sow-stall-1.jpeg"/>
 
