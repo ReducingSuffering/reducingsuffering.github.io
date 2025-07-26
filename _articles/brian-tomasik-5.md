@@ -9,7 +9,7 @@ original_date:
   - 2017.11.10
 translated_by: К. Кирдан
 is_fragment: true
-preview: assets/images/previews/18e5cdf6-9b47-4ee2-a3f7-758659480e19.jpg
+preview: assets/images/previews/squirrels.jpg
 ---
 (Это отрывок из статьи «[The Many Fallacies of Dualism](https://reducing-suffering.org/the-many-fallacies-of-dualism/)».)
 
