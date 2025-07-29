@@ -42,10 +42,11 @@ validation-report.json
 node_modules
 bower_components
 
-# Мои исключения
+# пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 .git
 .editorconfig
 .jekyll-cache
 .obsidian
 _drafts
-СИСТЕМА.txt
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.txt
+todo.txt
