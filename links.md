@@ -17,7 +17,6 @@ title: "Reducing Suffering: ссылки"
 * **[LessWrong на русском](https://lesswrong.ru/)** ([ВКонтакте](https://vk.com/public65688570), [Telegram](https://t.me/lesswrong_ru_news)) — о рациональном мышлении и искусственном интеллекте;
 * **[Уличная эпистемология](https://streetepistemology.ru/)** ([ВКонтакте](https://vk.com/street_epistemology)) — о методах бесконфликтного общения и исследовании надежности убеждений;
 * **[Эффективный альтруизм](https://ea-ru.org/)** ([ВКонтакте](https://vk.com/public71205962), [Telegram](https://t.me/effectivealtruism)) — о том, как эффективнее менять мир в лучшую сторону;
-* **[Центр рациональности Кочерга](https://kocherga-club.ru/)** ([ВКонтакте](https://vk.com/kocherga_club)) — встречи и общение на тему рационального мышления и не только;
 * **[Безопасность искусственного интеллекта](https://aisafety.ru/)** — переводы статей по согласованию искусственного интеллекта;
 * **[Matter and Mind](https://ubq124.wordpress.com)** ([ВКонтакте](https://vk.com/public44220375), [YouTube](https://www.youtube.com/c/MatterandMind)) — переводы и озвучка статей по философии сознания, этике и не только;
 * **[Голоса за животных](https://voicesforanimals.ru/)** ([ВКонтакте](https://vk.com/voicesforanimals), [Telegram](https://t.me/voicesforanimals), [YouTube](https://www.youtube.com/voicesforanimals)) — зоозащитная организация;
@@ -48,3 +47,4 @@ title: "Reducing Suffering: ссылки"
 
 * Magnus Vinding, **[Suffering-Focused Ethics: Defense and Implications](https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/)** — об этике, сфокусированной на уменьшении страданий;
 * Tobias Baumann, **[Avoiding the Worst: How to Prevent a Moral Catastrophe](https://centerforreducingsuffering.org/research/avoiding-the-worst/)** — о том, как избежать рисков распространения астрономических страданий.
+* Teo Ajantaival, **[Minimalist Axiologies: Alternatives to ‘Good Minus Bad’ Views of Value](https://centerforreducingsuffering.org/books/minimalist-axiologies/)** — об этических взглядах, диктующих уменьшение зла во вселенной.
