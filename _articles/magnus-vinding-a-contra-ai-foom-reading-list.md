@@ -226,7 +226,7 @@ preview_here: true
 - [_Reflections on Intelligence_](https://www.smashwords.com/books/view/655938)
 - [Why Altruists Should Perhaps Not Prioritize Artificial Intelligence: A Lengthy Critique](https://magnusvinding.com/2018/09/18/why-altruists-should-perhaps-not-prioritize-artificial-intelligence-a-lengthy-critique/)
 - [Chimps, Humans, and AI: A Deceptive Analogy](https://magnusvinding.com/2020/06/04/a-deceptive-analogy/)
-- [Some reasons not to expect a growth explosion](https://magnusvinding.com/2021/06/07/reasons-not-to-expect-a-growth-explosion/)
+- [Некоторые причины не ожидать взрывного роста](magnus-vinding-some-reasons-not-to-expect-a-growth-explosion.html)
 - [Two contrasting models of “intelligence” and future growth](https://forum.effectivealtruism.org/posts/7cCr6vAmN4Xi3yzR5/two-contrasting-models-of-intelligence-and-future-growth)
 - [Reasons that reduce the probability of extinction from rogue AGI](https://magnusvinding.com/wp-content/uploads/2023/06/extinction-from-rogue-agi.pdf)
 
