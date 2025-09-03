@@ -10,8 +10,7 @@ original_date:
 translated_by: К. Кирдан
 translation_details: добавлены ссылки
 is_fragment: true
-preview: assets/images/wall/mannequin-4288553_1280.jpg
-preview_here: true
+preview: assets/images/previews/yy1PRDBPpbBWrq5AlE69--1--dm3h2.jpg
 ---
 (Это отрывок из статьи «[Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering)».)
 
