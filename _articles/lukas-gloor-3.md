@@ -7,7 +7,7 @@ original: https://forum.effectivealtruism.org/s/R8vKwpMtFQ9kDvkJQ/p/6nPnqXCaYsmX
 original_date:
   - 2020.06.05
 is_fragment: true
-preview: 
+preview: assets/images/previews/515bd98a-bd9b-4294-b827-077e87507a70.jpg
 ---
 (Это отрывок из статьи «[Why Realists and Anti-Realists Disagree](https://forum.effectivealtruism.org/s/R8vKwpMtFQ9kDvkJQ/p/6nPnqXCaYsmXCtjTk)».)
 
