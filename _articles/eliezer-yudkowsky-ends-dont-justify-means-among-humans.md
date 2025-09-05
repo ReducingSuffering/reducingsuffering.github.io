@@ -9,7 +9,7 @@ translated_by: К. Кирдан
 license:
   - CC BY-NC-SA 3.0
   - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru
-preview: assets/images/previews/
+preview: assets/images/previews/detective-7021757.jpg
 ---
 > «Если не цель оправдывает средства, то что?»<br>
 > — приписывается разным источникам
