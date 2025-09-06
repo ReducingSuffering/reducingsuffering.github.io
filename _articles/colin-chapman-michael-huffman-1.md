@@ -9,8 +9,7 @@ original_date:
   - 2018
 translated_by: К. Кирдан
 is_shortened: true
-preview: assets/images/articles/colin-chapman-michael-huffman-1.jpg
-preview_here: true
+preview: assets/images/previews/colin-chapman-michael-huffman-1.jpg
 license:
   - CC BY 4.0
   - https://creativecommons.org/licenses/by/4.0/deed.ru
