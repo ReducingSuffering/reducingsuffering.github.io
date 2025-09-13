@@ -6,6 +6,7 @@ authors:
 original: https://forum.effectivealtruism.org/s/R8vKwpMtFQ9kDvkJQ/p/6nPnqXCaYsmXCtjTk#Points_of_agreement
 original_date:
   - 2020.06.05
+translated_by: К. Кирдан
 is_fragment: true
 preview: assets/images/previews/f58dfd93-9cfd-484e-b65d-0c338ae4b2c7.jpg
 excerpt: "Обсуждения в следующих областях имеют нечто общее: Наличие или отсутствие сознания; Моральная хорошесть или плохость поступков; Красивость или уродливость искусства; Сохранение (или его отсутствие) тождества личности (например, после прохождения через телепорт); Эпистемическая правильность или неправильность рассуждений; Истинность или ложность научных теорий"
