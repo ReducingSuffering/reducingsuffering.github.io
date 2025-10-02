@@ -52,7 +52,7 @@ preview: "https://res.cloudinary.com/cea/image/upload/c_fill,ar_1.91,g_auto/Soci
 
 ## Благодарности
 
-До сих пор моя работа над этой цепочкой финансировалась [Existential Risk Alliance](https://erafellowship.org/).
+До сих пор моя работа над этой цепочкой статей финансировалась [Existential Risk Alliance](https://erafellowship.org/).
 
 Все допущения/утверждения/упущения являются моими.
 
