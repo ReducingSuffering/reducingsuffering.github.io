@@ -52,7 +52,7 @@ preview: "https://res.cloudinary.com/cea/image/upload/c_fill,ar_1.91,g_auto/Soci
 
 ## Благодарности
 
-До сих пор моя работа над этой цепочкой статей финансировалась [Existential Risk Alliance](https://erafellowship.org/).
+До сих пор моя работа над этой цепочкой финансировалась [Existential Risk Alliance](https://erafellowship.org/).
 
 Все допущения/утверждения/упущения являются моими.
 
@@ -65,12 +65,3 @@ preview: "https://res.cloudinary.com/cea/image/upload/c_fill,ar_1.91,g_auto/Soci
 [^3]: После проведения тщательных оценок они могут даже осознать, что лучший способ максимизировать полезность для них заключается в том, чтобы избегать колонизации космоса (например, потому что ожидаемая отрицательная ценность конфликта с Францией или [с инопланетными цивилизациями](https://www.youtube.com/watch?v=jMouMl7RHk0) слишком высока).
 
 [^4]: В [этой ветке комментариев](https://forum.effectivealtruism.org/posts/hat6TafzAoDx97N6j/it-doesn-t-matter-what-the-moral-truth-might-be?commentId=qKLdydHJ9cBZXTFfZ) обсуждается интересный аргумент Вэй Дая, который ставит под сомнение данное утверждение.
-
----
-
-Эта статья входит в следующую цепочку:
-- [Что будут ценить люди будущего? Сжатое введение в аксиологическую футурологию](jim-buhler-predicting-what-future-people-value.html)
-- Для предсказания будущего неважно, какова моральная истина
-- [Тезис об отборе “жадных” ценностей. Какие ценности будут у космических цивилизаций?](jim-buhler-the-grabby-values-selection-thesis.html)
-- [Почему мы можем ожидать, что наши потомки не будут сострадательными](jim-buhler-why-we-may-expect-our-successors-not-to-care-about-suffering.html)
-- [Какие ценности будут править будущим? Обзор, выводы и направления для будущих исследований](jim-buhler-what-values-will-control-the-future.html)
