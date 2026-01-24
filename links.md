@@ -4,7 +4,7 @@ title: "Reducing Suffering: ссылки"
 ---
 ## Обратная связь
 
-Связаться с администратором проекта:
+Связаться с нами:
 * [ВКонтакте]({{ site.admin.vk }});
 * [Telegram]({{ site.admin.telegram }});
 * эл. почта [{{ site.admin.email }}](mailto:{{ site.admin.email }})
@@ -21,7 +21,7 @@ title: "Reducing Suffering: ссылки"
 * **[Matter and Mind](https://ubq124.wordpress.com)** ([ВКонтакте](https://vk.com/public44220375), [YouTube](https://www.youtube.com/c/MatterandMind)) — переводы и озвучка статей по философии сознания, этике и не только;
 * **[Голоса за животных](https://voicesforanimals.ru/)** ([ВКонтакте](https://vk.com/voicesforanimals), [Telegram](https://t.me/voicesforanimals), [YouTube](https://www.youtube.com/voicesforanimals)) — зоозащитная организация;
 * [Разные ресурсы об антинатализме](https://reducingsuffering.github.io/520.html) — наши товарищи;
-* **[К. Кирдан](https://kkirdan.github.io/)** ([ВКонтакте](https://vk.com/kirdan), [Telegram](https://t.me/k_kirdan)) — личный блог администратора проекта;
+* **[К. Кирдан](https://kkirdan.github.io/)** ([ВКонтакте](https://vk.com/kirdan), [Telegram](https://t.me/k_kirdan)) — личный блог автора проекта;
 * **что-то важное (или нет)** ([ВКонтакте](https://vk.com/public194967191)) — наш побочный склад материалов на самые разные темы.
 
 #### Книги:
