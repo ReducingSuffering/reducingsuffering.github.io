@@ -3,7 +3,7 @@ layout: article
 title: "О закрытом, пустом и открытом индивидуализме"
 authors:
   - Дэвид Пирс
-original: https://www.quora.com/What-does-David-Pearce-think-of-closed-empty-and-open-individualism/answer/David-Pearce-18
+original: https://www.hedweb.com/quora/2015.html#individualism
 original_date:
   - 2019.12.18
   - 2019.12.25
