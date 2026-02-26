@@ -8,7 +8,7 @@ original: https://manuherran.com/what-can-i-do-to-prevent-my-own-intense-sufferi
 original_date:
   - 2020.08.16
 translated_by: К. Кирдан
-hidden_comment: "Убрал ссылки на FB"
+hidden_comment: "убрал ссылки"
 last_update: 2020.12.23
 ---
 Связанное: [Что я могу сделать для предотвращения интенсивных страданий?](manu-herran-what-can-i-do-to-prevent-intense-suffering.html)
