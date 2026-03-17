@@ -8,10 +8,9 @@ original: https://forum.effectivealtruism.org/posts/geh2g2nKb7Kkp26ze/quantifyin
 original_date:
   - 2024.11.02
 is_fragment: true
-preview: assets/images/articles/alfredo-parra-1.jpg
-preview_here: true
+preview: assets/images/articles/c8bc5d9a-1f60-44c4-b5c2-c01546ebbcca.jpg
 ---
-(Это фрагмент из статьи «Quantifying the Global Burden of Extreme Pain from Cluster Headaches»)
+(Это фрагмент из статьи «[Quantifying the Global Burden of Extreme Pain from Cluster Headaches](https://forum.effectivealtruism.org/posts/geh2g2nKb7Kkp26ze/quantifying-the-global-burden-of-extreme-pain-from-cluster)»)
 
 <img src="assets/images/articles/alfredo-parra-1.jpg"/>
 
