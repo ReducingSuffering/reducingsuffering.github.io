@@ -22,4 +22,4 @@ translation_details: "добавлены ссылки"
 
 ---
 
-[^1]: См. такие понятия как [тяжёлая неопределенность](https://en.wikipedia.org/wiki/Knightian_uncertainty), [неизвестные неизвестности](https://books.google.co.uz/books?id=9iTUDwAAQBAJ&pg=PA48&redir_esc=y#v=onepage&q&f=false), [чёрные лебеди](https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C_(%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F)) и проблема [неведения](https://forum.effectivealtruism.org/topics/cluelessness) — прим. пер.
+[^1]: См. такие понятия как «[тяжёлая неопределенность](https://en.wikipedia.org/wiki/Knightian_uncertainty)», «[неизвестные неизвестности](https://books.google.co.uz/books?id=9iTUDwAAQBAJ&pg=PA48&redir_esc=y#v=onepage&q&f=false)», «[чёрные лебеди](https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C_(%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F))» и «[неведение](https://forum.effectivealtruism.org/topics/cluelessness)» — прим. пер.
