@@ -6,6 +6,7 @@ unixtime:
   - 1724264077
 authors:
   - К. Кирдан
+hidden_comment: убрал sep
 original_date:
   - 2020.10.25
   - 2024.08.21
@@ -48,7 +49,7 @@ original_date:
 
 <h2 id="1">1. Отличительная особенность</h2>
 
-Негативный утилитаризм является разновидностью _консеквенциализма_, т. е. [нормативной моральной теорией](301.html), правильность чего-либо в которой оценивается с точки зрения последствий: грубо говоря, хорошо то, что ведет к хорошим последствиям (при этом важно понимать, что последовательный консеквенциализм — [не то же самое](190.html), что люди порой вкладывают в крылатую фразу «цель оправдывает средства»). Новичкам в теме рекомендуем почитать [ЧаВо по консеквенциализму](63.html), написанное Скоттом Александером. Более глубоко погрузиться в тему можно в [статье](44.html) Стэнфордской энциклопедии философии.
+Негативный утилитаризм является разновидностью _консеквенциализма_, т. е. [нормативной моральной теорией](301.html), правильность чего-либо в которой оценивается с точки зрения последствий: грубо говоря, хорошо то, что ведет к хорошим последствиям (при этом важно понимать, что последовательный консеквенциализм — [не то же самое](190.html), что люди порой вкладывают в крылатую фразу «цель оправдывает средства»). Новичкам в теме рекомендуем почитать [ЧаВо по консеквенциализму](63.html), написанное Скоттом Александером.
 
 Чтобы объяснить, что такое негативный утилитаризм, сначала мы обратимся к другой, более известной и традиционной версии [утилитаризма](337.html). _Классический утилитаризм_ — это философия, которая ставит целью морали максимизацию _полезности_ (_счастья_, _благополучия_), которая понимается как сумма испытанных всеми существами удовольствий за вычетом испытанных всеми существами страданий. Таким образом, чем больше будет во вселенной (за всю ее историю) удовольствий, и чем меньше страданий — тем лучше. Наиболее морально правильным считается то, что приводит к наибольшей полезности по сравнению с альтернативами.
 
@@ -60,13 +61,13 @@ _Негативный утилитаризм_ в том или ином смыс
 
 <h3 id="2.1">2.1. По трактовке (не)благополучия</h3>
 
-Что вообще такое _[(не)благополучие](https://plato.stanford.edu/entries/well-being/)_ того или иного существа? Какую роль в нем играют желания, переживания и прочие происходящие с ним вещи? Сводится ли оно к одному виду явлений или нескольким?
+Что вообще такое _(не)благополучие_ того или иного существа? Какую роль в нем играют желания, переживания и прочие происходящие с ним вещи? Сводится ли оно к одному виду явлений или нескольким?
 
 <h4 id="2.1.1"><b>2.1.1. Переживания</b></h4>
 
-Обычно подразумевается, что _страдание_ — это любое неприятное (дискомфортное) переживание, которого (при прочих равных) стараются избегать, а _удовольствие_ — наоборот, приятное. Страданиями [могут считаться](https://plato.stanford.edu/entries/pain/), например: физическая боль, печаль, раздражение, страх, скука, отвращение, беспокойство, гнев, стыд. А удовольствиями могут считаться, например: радость, экстаз, восторг, удовлетворенность, облегчение.
+Обычно подразумевается, что _страдание_ — это любое неприятное (дискомфортное) переживание, которого (при прочих равных) стараются избегать, а _удовольствие_ — наоборот, приятное. Страданиями могут считаться, например: физическая боль, печаль, раздражение, страх, скука, отвращение, беспокойство, гнев, стыд. А удовольствиями могут считаться, например: радость, экстаз, восторг, удовлетворенность, облегчение.
 
-Если утилитаризм определяет благополучие в терминах страданий и удовольствий, такой утилитаризм называют _гедонистическим_. В целом _[моральный гедонизм](https://plato.stanford.edu/entries/hedonism/#EthHed)_ — это подход, согласно которому в [конечном счете](590.html) морально ценны лишь страдание и удовольствие (или что-то одно из них): страдание как отрицательная ценность, а удовольствие как положительная[^1]. В зависимости от понимания терминов «страдание» и «удовольствие», их внутренней структуры и отношений между ними, возможны разные версии гедонизма (кроме того, гедонизм не обязательно подразумевает утилитаризм — например, он может быть [_приоритарным_](https://utilitarianism.net/near-utilitarian-alternatives/#prioritarianism) или [_эгоистическим_](https://plato.stanford.edu/entries/egoism/#EthiEgoi)).
+Если утилитаризм определяет благополучие в терминах страданий и удовольствий, такой утилитаризм называют _гедонистическим_. В целом _моральный гедонизм_ — это подход, согласно которому в [конечном счете](590.html) морально ценны лишь страдание и удовольствие (или что-то одно из них): страдание как отрицательная ценность, а удовольствие как положительная[^1]. В зависимости от понимания терминов «страдание» и «удовольствие», их внутренней структуры и отношений между ними, возможны разные версии гедонизма (кроме того, гедонизм не обязательно подразумевает утилитаризм — например, он может быть [_приоритарным_](https://utilitarianism.net/near-utilitarian-alternatives/#prioritarianism) или _эгоистическим_).
 
 Вариант гедонизма, в котором страдания в том или ином значимом смысле весомее удовольствий (вплоть до полного отрицания значимости удовольствий), иногда называют _негативным гедонизмом_. Соответственно, построенный на такой версии гедонизма утилитаризм называется _негативно-гедонистическим утилитаризмом_. Это наиболее известный вариант негативного утилитаризма.
 
@@ -84,7 +85,7 @@ _Негативный утилитаризм_ в том или ином смыс
 
 <h4 id="2.1.3"><b>2.1.3. Больше элементов</b></h4>
 
-Возможны и другие подходы к [определению благополучия](https://www.utilitarianism.net/theories-of-wellbeing) в утилитаризме, при которых (не)счастье, трактуемое через переживания и/или предпочтения, не является единственным элементом (не)благополучия. В таких теориях, называемых [objective list theories](https://plato.stanford.edu/entries/well-being/#ObjLisThe), элементами благополучия могут также считаться, например: здоровье, информированность, свободность, соблюдаемость прав, добродетельность, качество отношений с другими, продолжительность жизни, и др.
+Возможны и другие подходы к [определению благополучия](https://www.utilitarianism.net/theories-of-wellbeing) в утилитаризме, при которых (не)счастье, трактуемое через переживания и/или предпочтения, не является единственным элементом (не)благополучия. В таких теориях, называемых objective list theories, элементами благополучия могут также считаться, например: здоровье, информированность, свободность, соблюдаемость прав, добродетельность, качество отношений с другими, продолжительность жизни, и др.
 
 Таким образом, для негативного утилитаризма, [построенного на основе](https://magnusvinding.com/2023/04/10/minimalist-versions-of-objective-list-theories-of-wellbeing/) списка независимых элементов благополучия, минимизация негативных элементов должна быть существенно важнее максимизации позитивных. При этом максимизация некоторых благ — вроде свободы или здоровья — может попросту трактоваться как минимизация соответствующих не-благ (нарушения свободы или нездоровья/болезней в этих случаях) без изменения смысла предлагаемой оптимизации.
 
@@ -146,7 +147,7 @@ _Негативный утилитаризм_ в том или ином смыс
 
 <h3 id="2.5">2.5. По приложению</h3>
 
-Для негативного утилитаризма, как и для других разновидностей консеквенциализма, актуальны [дискуссии](https://utilitarianism.net/types-of-utilitarianism/#further-distinctions-among-utilitarian-theories) о том, последствия чего именно и как нам следует измерять в каких обстоятельствах. Классификация подходов может зависеть, в частности, от того, задаемся ли мы вопросом о том, как нам добиться наилучших последствий без каких-либо дополнительных оговорок, или же предварительно ограничиваем сферу применения консеквенциалистского мышления. Есть множество разных делений — на [_прямой_ и _непрямой_](https://brickofknowledge.com/articles/%D1%81onsequentialism) консеквенциализм, [_одноуровневый_ и _многоуровневый_](https://utilitarianism.net/types-of-utilitarianism/#multi-level-utilitarianism-versus-single-level-utilitarianism), на консеквенциализм в отношении [_поступков_](https://www.rep.routledge.com/articles/thematic/consequentialism/v-1/sections/act-consequentialism), [_правил_](https://iep.utm.edu/util-a-r/), [_мотивов_](https://www.jstor.org/stable/2025783), [_качеств характера_](https://www.cambridge.org/core/journals/utilitas/article/abs/virtue-consequentialism/1551F5A99357BCBA05BE6D810DC747EB) и др., или в отношении [всего сразу](http://www.amirrorclear.net/academic/papers/everything.pdf).
+Для негативного утилитаризма, как и для других разновидностей консеквенциализма, актуальны [дискуссии](https://utilitarianism.net/types-of-utilitarianism/#further-distinctions-among-utilitarian-theories) о том, последствия чего именно и как нам следует измерять в каких обстоятельствах. Классификация подходов может зависеть, в частности, от того, задаемся ли мы вопросом о том, как нам добиться наилучших последствий без каких-либо дополнительных оговорок, или же предварительно ограничиваем сферу применения консеквенциалистского мышления. Есть множество разных делений — на _прямой_ и _непрямой_ консеквенциализм, [_одноуровневый_ и _многоуровневый_](https://utilitarianism.net/types-of-utilitarianism/#multi-level-utilitarianism-versus-single-level-utilitarianism), на консеквенциализм в отношении [_поступков_](https://www.rep.routledge.com/articles/thematic/consequentialism/v-1/sections/act-consequentialism), [_правил_](https://iep.utm.edu/util-a-r/), [_мотивов_](https://www.jstor.org/stable/2025783), [_качеств характера_](https://www.cambridge.org/core/journals/utilitas/article/abs/virtue-consequentialism/1551F5A99357BCBA05BE6D810DC747EB) и др., или в отношении [всего сразу](http://www.amirrorclear.net/academic/papers/everything.pdf).
 
 Мы кратко прокомментируем лишь консеквенциализм в следующем смысле: какое вообще поведение ведет к наилучшим последствиям для вселенной? Чем руководствоваться тем или иным людям, чтобы приблизить свое поведение к этому оптимуму?
 
@@ -164,7 +165,7 @@ _Негативный утилитаризм_ в том или ином смыс
 
 Таким образом, негативный утилитаризм — это разновидность негативного консеквенциализма, но не единственно возможная. В других видах такого консеквенциализма помимо (или даже вместо) цели минимизации неблагополучия могут диктоваться, например, минимизация числа смертей, актов жестокости или [неравенства](https://utilitarianism.net/near-utilitarian-alternatives/#egalitarianism-and-distributive-justice) во вселенной.
 
-С другой стороны, такой консеквенциализм может отличаться от утилитаризма выбором более узкого морального круга: например, быть [эгоистическим](https://plato.stanford.edu/entries/egoism/#EthiEgoi), или ограничиваться интересами человеческого вида.
+С другой стороны, такой консеквенциализм может отличаться от утилитаризма выбором более узкого морального круга: например, быть эгоистическим, или ограничиваться интересами человеческого вида.
 
 <h3 id="3.2">3.2. Минималистские теории</h3>
 
@@ -172,7 +173,7 @@ _Негативный утилитаризм_ в том или ином смыс
 
 Во-первых, минималистские теории занимают наиболее строгую асимметричную позицию в отношении плохого — в конечном счете лишь плохое имеет моральное значение, тогда как хорошее имеет относительное ([инструментальное](590.html)) значение в той мере, в какой оно помогает уменьшать плохое. Соответственно, абсолютный негативный утилитаризм относится к минималистским теориям, тогда как другие виды негативного утилитаризма, признающие благополучие выше нуля самоценным — не относятся.
 
-Во-вторых, этика, основанная на минималистской теории ценностей, не обязана быть консеквенциалистской. Она может также принимать [деонтологический](https://plato.stanford.edu/archives/win2021/entries/ethics-deontological/) или [аретологический](https://reducingsuffering.github.io/46.html) вид, или комбинировать их. Например, возможна минималистская этика, диктующая уменьшение страданий во вселенной, но налагающая ряд строгих запретов на то, что можно делать ради достижения этой цели.
+Во-вторых, этика, основанная на минималистской теории ценностей, не обязана быть консеквенциалистской. Она может также принимать деонтологический или [аретологический](https://reducingsuffering.github.io/46.html) вид, или комбинировать их. Например, возможна минималистская этика, диктующая уменьшение страданий во вселенной, но налагающая ряд строгих запретов на то, что можно делать ради достижения этой цели.
 
 <h3 id="3.3">3.3. Этика противодействия страданию</h3>
 
@@ -226,65 +227,58 @@ _Этика противодействия страданию_, _этика ум
 20. Кирдан К., [Что такое этика?](https://reducingsuffering.github.io/what-is-ethics.html) (2021)
 21. **Ле Гуин** Урсула, [Уходящие из Омеласа](https://www.ogobook.ru/fantastika/fentezi/166843/fulltext.htm) (1973)
 22. **Пирс** Дэвид, [Гедонистический императив](https://reducingsuffering.github.io/89.html)
-23. **Стэнфордская энциклопедия философии**, [Консеквенциализм](https://brickofknowledge.com/articles/%D1%81onsequentialism)
-24. Стэнфордская энциклопедия философии, [Этика добродетели](https://philosophy.ru/ru/virtue_ethics/)
-25. **Сэмюэл** Сигаль, [Звери, роботы и люди: есть ли шансы на равноправие?](https://newochem.io/moral-circle/) (2019)
-26. **Уиттлстоун** Джесс, [Благополучие животных](https://ea-ru.org/articles/animal-welfare) (2017)
-27. **Электронная философская энциклопедия**, [Утилитаризм](https://elenph.org/individual?uri=https%3A%2F%2Flitvinovg.pro%2Ftext_structures%23elenphArticle%2Fw2phtml_prokofev_utilitarizm)
-28. **Centre for Effective Altruism**, [Введение в эффективный альтруизм](https://ea-ru.org/articles/introduction-to-effective-altruism)
-29. **Adams** Robert Merrihew, [Motive Utilitarianism](https://www.jstor.org/stable/2025783) (1976)
-30. **Ajantaival** Teo, [Minimalist Axiologies: Alternatives to 'Good Minus Bad' Views of Value](https://forum.effectivealtruism.org/s/MBadsrYLmzLNmYjaj) (2021-2024)
-31. Ajantaival Teo, [Minimalist extended very repugnant conclusions are the least repugnant](https://forum.effectivealtruism.org/posts/FEJLFr5ef82FSY8vr/minimalist-extended-very-repugnant-conclusions-are-the-least) (2022-2024)
-32. Ajantaival Teo, [Peacefulness, nonviolence, and experientialist minimalism](https://forum.effectivealtruism.org/s/MBadsrYLmzLNmYjaj/p/JnHeeTGAohMFxNbGK) (2022-2024)
-33. Ajantaival Teo, [Why do you reject negative utilitarianism?](https://www.lesswrong.com/posts/8Eo52cjzxcSP9CHea/why-do-you-reject-negative-utilitarianism) (2019)
-34. **Anonymous**, [Negative Utilitarianism FAQ](https://www.utilitarianism.com/nu/nufaq.html)
-35. **Askell** Amanda, [Act utilitarianism: criterion of rightness vs. decision procedure](https://forum.effectivealtruism.org/posts/voDm6e6y4KHAPJeJX/act-utilitarianism-criterion-of-rightness-vs-decision) (2017)
-36. **Bradley** Ben, [Virtue Consequentialism](https://www.cambridge.org/core/journals/utilitas/article/abs/virtue-consequentialism/1551F5A99357BCBA05BE6D810DC747EB) (2005)
-37. **Breyer** Daniel, [The Cessation of Suffering and Buddhist Axiology](https://blogs.dickinson.edu/buddhistethics/files/2015/12/Breyer-Axiology-final.pdf) (2015)
-38. **Chao** Roger, [Negative Average Preference Utilitarianism](https://www.philosophyoflife.org/jpl201204.pdf) (2012)
-39. **Chappell** R. Y. & Meissner D., [Near-Utilitarian Alternatives](https://utilitarianism.net/near-utilitarian-alternatives/) (2023)
-40. Chappell R. Y. & Meissner D., [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing) (2023)
-41. Chappell R. Y. & Meissner D. & MacAskill W., [Population Ethics](https://www.utilitarianism.net/population-ethics) (2023)
-42. **Effective Altruism Forum**, [Cluelessness](https://forum.effectivealtruism.org/topics/cluelessness)
-43. Effective Altruism Forum, [Negative utilitarianism](https://forum.effectivealtruism.org/topics/negative-utilitarianism)
-44. **Herrán** Manu, [How to represent the intuition that there are different categories of suffering?](https://manuherran.com/how-to-represent-the-intuition-that-there-are-different-categories-of-suffering/) (2020)
-45. **Internet Encyclopedia of Philosophy**, [Act and Rule Utilitarianism](https://iep.utm.edu/util-a-r/)
-46. **Knutsson** Simon, [Measuring happiness and suffering](https://www.simonknutsson.com/measuring-happiness-and-suffering/) (2016-2018)
-47. Knutsson Simon, [The world destruction argument](https://www.tandfonline.com/doi/full/10.1080/0020174X.2019.1658631) (2019)
-48. Knutsson Simon, [Value lexicality](https://www.simonknutsson.com/value-lexicality) (2016)
-49. Knutsson Simon, [What is the difference between weak negative and non-negative ethical views](https://www.simonknutsson.com/what-is-the-difference-between-weak-negative-and-non-negative-ethical-views/#Weak_negative_utilitarianism_and_consequentialism) (2016)
-50. **Kulveit** Jan, [Deontology and virtue ethics as "effective theories" of consequentialist ethics](https://forum.effectivealtruism.org/posts/aDNPgm2v2boBbj8wK/deontology-and-virtue-ethics-as-effective-theories-of) (2022)
-51. **MacAskill** W. & Meissner D. & Chappell R. Y., [Elements and Types of Utilitarianism](https://utilitarianism.net/types-of-utilitarianism/) (2023)
-52. **Ord** Toby, [Consequentialism and Decision Procedures](http://amirrorclear.net/files/consequentialism-and-decision-procedures.pdf) (2005)
-53. Ord Toby, [How to be a consequentialist about everything](http://www.amirrorclear.net/academic/papers/everything.pdf)
-54. **Pearce** David, [The Pinprick Argument](www.utilitarianism.com/pinprick-argument.html) (2005)
-55. **Singer** Peter, [Right to Life?](https://www.nybooks.com/articles/1980/08/14/right-to-life/) (1980)
-56. **Stanford Encyclopedia of Philosophy**, [Deontological Ethics](https://plato.stanford.edu/archives/win2021/entries/ethics-deontological/)
-57. Stanford Encyclopedia of Philosophy, [Egoism](https://plato.stanford.edu/entries/egoism/)
-58. Stanford Encyclopedia of Philosophy, [Hedonism](https://plato.stanford.edu/entries/hedonism/)
-59. Stanford Encyclopedia of Philosophy, [Pain](https://plato.stanford.edu/entries/pain/)
-60. Stanford Encyclopedia of Philosophy, [Well-Being](https://plato.stanford.edu/entries/well-being)
-61. **Tomasik Brian**, [Are Happiness and Suffering Symmetric?](https://reducing-suffering.org/happiness-suffering-symmetric/) (2015-2017)
-62. Tomasik Brian, [Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering) (2014-2019)
-63. Tomasik Brian, [Does Negative Utilitarianism Override Individual Preferences?](https://reducing-suffering.org/negative-utilitarianism-override-individual-preferences/) (2017-2022)
-64. Tomasik Brian, [Hedonistic vs. Preference Utilitarianism](https://longtermrisk.org/hedonistic-vs-preference-utilitarianism) (2006-2017)
-65. Tomasik Brian, [Three Types of Negative Utilitarianism](https://reducing-suffering.org/three-types-of-negative-utilitarianism/) (2013-2019)
-66. **Vinding Magnus**, [Minimalist versions of objective list theories of wellbeing](https://magnusvinding.com/2023/04/10/minimalist-versions-of-objective-list-theories-of-wellbeing/) (2023)
-67. Vinding Magnus, [Priorities for reducing suffering: Reasons not to prioritize the Abolitionist Project](https://magnusvinding.com/2021/08/09/reasons-not-to-prioritize-the-abolitionist-project/) (2021)
-68. Vinding Magnus, [Suffering-Focused Ethics: Defense and Implications](https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/) (2020)
-69. **Wikipedia**, [Aggregate function](https://en.wikipedia.org/wiki/Aggregate_function)
-70. Wikipedia, [Antifrustrationism](https://en.wikipedia.org/wiki/Antifrustrationism)
-71. Wikipedia, [Average and total utilitarianism](https://en.wikipedia.org/wiki/Average_and_total_utilitarianism)
-72. Wikipedia, [Lexicographic order](https://en.wikipedia.org/wiki/Lexicographic_order)
-73. Wikipedia, [Negative consequentialism](https://en.wikipedia.org/wiki/Negative_consequentialism)
-74. Wikipedia, [Negative utilitarianism](https://en.wikipedia.org/wiki/Negative_utilitarianism)
-75. Wikipedia, [Person-affecting view](https://en.wikipedia.org/wiki/Person-affecting_view)
-76. Wikipedia, [Preference utilitarianism](https://en.wikipedia.org/wiki/Preference_utilitarianism)
-77. Wikipedia, [Social discount rate](https://en.wikipedia.org/wiki/Social_discount_rate)
-78. Wikipedia, [Suffering-focused ethics](https://en.wikipedia.org/wiki/Suffering-focused_ethics)
-79. Wikipedia, [Two-level utilitarianism](https://en.wikipedia.org/wiki/Two-level_utilitarianism)
-80. **Yudkowsky** Eliezer, [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) (2008)
-81. Yudkowsky Eliezer, [Torture vs Dust Specks](https://www.lesswrong.com/posts/3wYTFWY3LKQCnAptN/torture-vs-dust-specks) (2007)
+23. **Сэмюэл** Сигаль, [Звери, роботы и люди: есть ли шансы на равноправие?](https://newochem.io/moral-circle/) (2019)
+24. **Уиттлстоун** Джесс, [Благополучие животных](https://ea-ru.org/articles/animal-welfare) (2017)
+25. **Электронная философская энциклопедия**, [Утилитаризм](https://elenph.org/individual?uri=https%3A%2F%2Flitvinovg.pro%2Ftext_structures%23elenphArticle%2Fw2phtml_prokofev_utilitarizm)
+26. **Centre for Effective Altruism**, [Введение в эффективный альтруизм](https://ea-ru.org/articles/introduction-to-effective-altruism)
+27. **Adams** Robert Merrihew, [Motive Utilitarianism](https://www.jstor.org/stable/2025783) (1976)
+28. **Ajantaival** Teo, [Minimalist Axiologies: Alternatives to 'Good Minus Bad' Views of Value](https://forum.effectivealtruism.org/s/MBadsrYLmzLNmYjaj) (2021-2024)
+29. Ajantaival Teo, [Minimalist extended very repugnant conclusions are the least repugnant](https://forum.effectivealtruism.org/posts/FEJLFr5ef82FSY8vr/minimalist-extended-very-repugnant-conclusions-are-the-least) (2022-2024)
+30. Ajantaival Teo, [Peacefulness, nonviolence, and experientialist minimalism](https://forum.effectivealtruism.org/s/MBadsrYLmzLNmYjaj/p/JnHeeTGAohMFxNbGK) (2022-2024)
+31. Ajantaival Teo, [Why do you reject negative utilitarianism?](https://www.lesswrong.com/posts/8Eo52cjzxcSP9CHea/why-do-you-reject-negative-utilitarianism) (2019)
+32. **Anonymous**, [Negative Utilitarianism FAQ](https://www.utilitarianism.com/nu/nufaq.html)
+33. **Askell** Amanda, [Act utilitarianism: criterion of rightness vs. decision procedure](https://forum.effectivealtruism.org/posts/voDm6e6y4KHAPJeJX/act-utilitarianism-criterion-of-rightness-vs-decision) (2017)
+34. **Bradley** Ben, [Virtue Consequentialism](https://www.cambridge.org/core/journals/utilitas/article/abs/virtue-consequentialism/1551F5A99357BCBA05BE6D810DC747EB) (2005)
+35. **Breyer** Daniel, [The Cessation of Suffering and Buddhist Axiology](https://blogs.dickinson.edu/buddhistethics/files/2015/12/Breyer-Axiology-final.pdf) (2015)
+36. **Chao** Roger, [Negative Average Preference Utilitarianism](https://www.philosophyoflife.org/jpl201204.pdf) (2012)
+37. **Chappell** R. Y. & Meissner D., [Near-Utilitarian Alternatives](https://utilitarianism.net/near-utilitarian-alternatives/) (2023)
+38. Chappell R. Y. & Meissner D., [Theories of Well-Being](https://www.utilitarianism.net/theories-of-wellbeing) (2023)
+39. Chappell R. Y. & Meissner D. & MacAskill W., [Population Ethics](https://www.utilitarianism.net/population-ethics) (2023)
+40. **Effective Altruism Forum**, [Cluelessness](https://forum.effectivealtruism.org/topics/cluelessness)
+41. Effective Altruism Forum, [Negative utilitarianism](https://forum.effectivealtruism.org/topics/negative-utilitarianism)
+42. **Herrán** Manu, [How to represent the intuition that there are different categories of suffering?](https://manuherran.com/how-to-represent-the-intuition-that-there-are-different-categories-of-suffering/) (2020)
+43. **Internet Encyclopedia of Philosophy**, [Act and Rule Utilitarianism](https://iep.utm.edu/util-a-r/)
+44. **Knutsson** Simon, [Measuring happiness and suffering](https://www.simonknutsson.com/measuring-happiness-and-suffering/) (2016-2018)
+45. Knutsson Simon, [The world destruction argument](https://www.tandfonline.com/doi/full/10.1080/0020174X.2019.1658631) (2019)
+46. Knutsson Simon, [Value lexicality](https://www.simonknutsson.com/value-lexicality) (2016)
+47. Knutsson Simon, [What is the difference between weak negative and non-negative ethical views](https://www.simonknutsson.com/what-is-the-difference-between-weak-negative-and-non-negative-ethical-views/#Weak_negative_utilitarianism_and_consequentialism) (2016)
+48. **Kulveit** Jan, [Deontology and virtue ethics as "effective theories" of consequentialist ethics](https://forum.effectivealtruism.org/posts/aDNPgm2v2boBbj8wK/deontology-and-virtue-ethics-as-effective-theories-of) (2022)
+49. **MacAskill** W. & Meissner D. & Chappell R. Y., [Elements and Types of Utilitarianism](https://utilitarianism.net/types-of-utilitarianism/) (2023)
+50. **Ord** Toby, [Consequentialism and Decision Procedures](http://amirrorclear.net/files/consequentialism-and-decision-procedures.pdf) (2005)
+51. Ord Toby, [How to be a consequentialist about everything](http://www.amirrorclear.net/academic/papers/everything.pdf)
+52. **Pearce** David, [The Pinprick Argument](www.utilitarianism.com/pinprick-argument.html) (2005)
+53. **Singer** Peter, [Right to Life?](https://www.nybooks.com/articles/1980/08/14/right-to-life/) (1980)
+54. **Tomasik** Brian, [Are Happiness and Suffering Symmetric?](https://reducing-suffering.org/happiness-suffering-symmetric/) (2015-2017)
+55. Tomasik Brian, [Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering) (2014-2019)
+56. Tomasik Brian, [Does Negative Utilitarianism Override Individual Preferences?](https://reducing-suffering.org/negative-utilitarianism-override-individual-preferences/) (2017-2022)
+57. Tomasik Brian, [Hedonistic vs. Preference Utilitarianism](https://longtermrisk.org/hedonistic-vs-preference-utilitarianism) (2006-2017)
+58. Tomasik Brian, [Three Types of Negative Utilitarianism](https://reducing-suffering.org/three-types-of-negative-utilitarianism/) (2013-2019)
+59. **Vinding Magnus**, [Minimalist versions of objective list theories of wellbeing](https://magnusvinding.com/2023/04/10/minimalist-versions-of-objective-list-theories-of-wellbeing/) (2023)
+60. Vinding Magnus, [Priorities for reducing suffering: Reasons not to prioritize the Abolitionist Project](https://magnusvinding.com/2021/08/09/reasons-not-to-prioritize-the-abolitionist-project/) (2021)
+61. Vinding Magnus, [Suffering-Focused Ethics: Defense and Implications](https://magnusvinding.com/2020/05/31/suffering-focused-ethics-defense-and-implications/) (2020)
+62. **Wikipedia**, [Aggregate function](https://en.wikipedia.org/wiki/Aggregate_function)
+63. Wikipedia, [Antifrustrationism](https://en.wikipedia.org/wiki/Antifrustrationism)
+64. Wikipedia, [Average and total utilitarianism](https://en.wikipedia.org/wiki/Average_and_total_utilitarianism)
+65. Wikipedia, [Lexicographic order](https://en.wikipedia.org/wiki/Lexicographic_order)
+66. Wikipedia, [Negative consequentialism](https://en.wikipedia.org/wiki/Negative_consequentialism)
+67. Wikipedia, [Negative utilitarianism](https://en.wikipedia.org/wiki/Negative_utilitarianism)
+68. Wikipedia, [Person-affecting view](https://en.wikipedia.org/wiki/Person-affecting_view)
+69. Wikipedia, [Preference utilitarianism](https://en.wikipedia.org/wiki/Preference_utilitarianism)
+70. Wikipedia, [Social discount rate](https://en.wikipedia.org/wiki/Social_discount_rate)
+71. Wikipedia, [Suffering-focused ethics](https://en.wikipedia.org/wiki/Suffering-focused_ethics)
+72. Wikipedia, [Two-level utilitarianism](https://en.wikipedia.org/wiki/Two-level_utilitarianism)
+73. **Yudkowsky** Eliezer, [Ends Don't Justify Means (Among Humans)](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) (2008)
+74. Yudkowsky Eliezer, [Torture vs Dust Specks](https://www.lesswrong.com/posts/3wYTFWY3LKQCnAptN/torture-vs-dust-specks) (2007)
 
 <h2 id="Что_еще_почитать">Что еще почитать</h2>
 
@@ -349,6 +343,6 @@ _Этика противодействия страданию_, _этика ум
 
 <h2 id="Сноски">Сноски</h2>
 
-[^1]: Довольно часто в определениях гедонизма, особенно на русском языке, упоминается лишь удовольствие, несмотря на то, что [некоторые](https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%83%D1%80) из относимых к гедонистам философов под удовольствием имели в виду отсутствие страданий. Это вносит терминологическую путаницу, так что мы рекомендуем разделять страдания и удовольствия, и упоминать в связи с гедонизмом и то, и другое, — как это делают, например, в [Стэнфордской философской энциклопедии](https://plato.stanford.edu/entries/hedonism/).
+[^1]: Довольно часто в определениях гедонизма, особенно на русском языке, упоминается лишь удовольствие, несмотря на то, что [некоторые](https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%83%D1%80) из относимых к гедонистам философов под удовольствием имели в виду отсутствие страданий. Это вносит терминологическую путаницу, так что мы рекомендуем разделять страдания и удовольствия, и упоминать в связи с гедонизмом и то, и другое, — как это делают в философских энциклопедиях вроде стэнфордской.
 
 [^2]: Встречаются и другие переводы терминов «total utilitarianism» и «average utilitarianism». Причины, по которым мы выбрали именно такой перевод, [описаны здесь](https://kkirdan.github.io/blog/a1.html).

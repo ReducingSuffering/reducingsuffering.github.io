@@ -5,6 +5,7 @@ authors:
   - Магнус Виндинг
 original: https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/
 translated_by: К. Кирдан
+hidden_comment: убрал sep
 original_date:
   - "2017"
   - "2023.11"
@@ -151,7 +152,7 @@ preview_here: true
 
 **Филипп Агион, Бенджамин Ф. Джонс, & Чарльз И. Джонс:**
 
-- [Artificial Intelligence and Economic Growth](https://web.stanford.edu/~chadj/AI.pdf)
+- Artificial Intelligence and Economic Growth
 
 **Алессио Плебе & Пьетро Перконти:**
 

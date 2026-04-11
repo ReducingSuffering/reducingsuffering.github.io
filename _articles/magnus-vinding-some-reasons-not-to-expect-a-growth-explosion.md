@@ -4,6 +4,7 @@ title: Некоторые причины не ожидать взрывного 
 authors:
   - Магнус Виндинг
 translated_by: К. Кирдан
+hidden_comment: убрал sep
 original: https://magnusvinding.com/2021/06/07/reasons-not-to-expect-a-growth-explosion/
 original_date: "2021.06.07"
 preview: https://magnusvinding.com/wp-content/uploads/2021/06/pexels-photo-187041.jpeg?w=1400
@@ -39,7 +40,7 @@ preview: https://magnusvinding.com/wp-content/uploads/2021/06/pexels-photo-18704
 <a id="Темпы_инноваций_и_научного_прогресса_замедлились"></a>
 ## Темпы инноваций и научного прогресса замедлились
 
-См. работу Блума и др. «[Are Ideas Getting Harder to Find?](https://web.stanford.edu/~chadj/IdeaPF.pdf)» и работу Коуэна и Саутвуда «[Is the rate of scientific progress slowing down?](https://docs.google.com/document/d/1cEBsj18Y4NnVx5Qdu43cKEHMaVBODTTyfHBa8GIRSec/edit)». Пара графиков из последней работы:
+См. работу Блума и др. «Are Ideas Getting Harder to Find?» и работу Коуэна и Саутвуда «[Is the rate of scientific progress slowing down?](https://docs.google.com/document/d/1cEBsj18Y4NnVx5Qdu43cKEHMaVBODTTyfHBa8GIRSec/edit)». Пара графиков из последней работы:
 
 <center><img src="https://magnusvinding.com/wp-content/uploads/2021/06/screen-shot-2021-06-07-at-6.56.25-pm.png"/></center>
 
