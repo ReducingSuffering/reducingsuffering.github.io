@@ -1,0 +1,34 @@
+---
+layout: blog
+title: "Reducing Suffering: блог"
+---
+Блог можно читать в соцсетях: <a href="https://vk.com/reducing_suffering">ВКонтакте</a>, <a href="https://t.me/reducing_suffering">Telegram</a>.<br>
+<hr style="margin-top: 8px; margin-bottom: 12px">
+
+<div class="posts">
+Закрепленные посты: <br>
+<a href="#632">Уменьшение страданий: быстрое введение | К. Кирдан</a><br>
+<a href="#546">Что такое уменьшение страданий | К. Кирдан</a>
+<br><br>
+
+{% for post in site.posts %}
+  <div class="post-in-frame" id="{{ post.id | remove: "/" }}">
+    {% if post.article %}{% assign a = "/" | append: post.article | append: ".html" %}
+	{% assign article = site.articles | where: "url", a | first %}
+	{% include post-head.html article=article link=true %}
+    <div class="post-content">
+      {{ article.content | markdownify }}
+	  {{ post.content }}
+    </div>
+    {% include article-links.html article=article %}
+	{% else %}
+    {% include post-head.html post=post link=true %}
+    <div class="post-content">
+      {{ post.content }}
+    </div>
+    {% include post-links.html post=post %}
+	{% endif %}
+	{% include post-bottom.html post=post %}
+  </div>
+{% endfor %}
+</div>

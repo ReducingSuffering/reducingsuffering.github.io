@@ -1,0 +1,27 @@
+# МОДИФИЦИРОВАНО
+
+# Setup
+title:               Reducing Suffering
+url:                 https://reducingsuffering.github.io
+baseurl:             ''
+permalink:           /:title:output_ext
+
+# Social networks
+vk:                  https://vk.com/reducing_suffering
+telegram:            https://t.me/reducing_suffering
+
+# Admin contacts
+admin:
+  email: latif.rosh@gmail.com
+  vk: https://vk.com/reducing_suffering
+  telegram: https://t.me/reducing_suffering
+
+# Custom vars
+collections:
+  articles:
+    output: true
+    permalink: /:title:output_ext
+  lists:
+    output: false
+    
+google_analytics: G-CZTR6P99H5

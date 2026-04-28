@@ -1,0 +1,28 @@
+---
+layout: blog
+---
+{% if page.article %}{% assign a = "/" | append: page.article | append: ".html" %}
+{% assign article = site.articles | where: "url", a | first %}
+
+{% include post-head.html article=article %}
+
+<div class="post-content">
+  {{ article.content | markdownify }}
+  {{ content }}
+</div>
+
+{% include article-links.html article=article %}
+
+{% else %}
+
+{% include post-head.html post=page %}
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+{% include post-links.html post=page %}
+
+{% endif %}
+
+{% include post-bottom.html post=page %}

@@ -1,0 +1,25 @@
+{% if include.post.link_to %}{% unless include.post.included %}
+<div>
+  {% if include.post.relative %}
+  <a href="{{ include.post.link_to | relative_url }}">
+  {% else %}
+  <a href="{{ include.post.link_to }}">
+  {% endif %}
+      <div style="font-size: 20px; font-weight: bold;">{% if include.post.meta_tags contains "видео" %}смотреть{% else %}читать&nbsp;дальше{% endif %}:</div>
+	  <div class="link">{% if include.post.authors %}{% unless include.post.authors[0] == "другие" %}{{ include.post.authors | join: ", " }}, {% endunless %}{% else %}{{ include.post.source }}, {% endif %}{{ include.post.title }}
+	  {% if include.post.preview %}<img src="{% if include.post.preview_here %}{{ include.post.preview | relative_url }}{% else %}{{ include.post.preview }}{% endif %}" style="width: 100%; margin: 0;" onerror="this.onerror=null; width=0; height=0">{% endif %}</div>
+  </a>
+  {% if include.post.archive %}
+  <a href="{{ include.post.archive }}" style="font-size: 20px; font-weight: bold; color: rgb(147,0,0)">запасная ссылка</a>
+  {% endif %}
+</div>
+{% else %} 
+{% endunless %}
+{% endif %}
+
+{% if include.post.original %}
+<hr style="margin-bottom: 8px">
+<span class="post-tags">
+  Оригинал: <a href="{{ include.post.original }}">{{ include.post.original }}</a><br>
+</span>
+{% endif %}
