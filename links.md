@@ -27,7 +27,7 @@ title: "Reducing Suffering: ссылки"
 #### Книги:
 
 * Элиезер Юдковский, **[Рациональность: от ИИ до зомби](https://lesswrong.ru/285)** — сборник эссе о рациональном мышлении;
-* Дэвид Пирс, **[Гедонистический императив](https://reducingsuffering.github.io/89.html)** — проект преодоления страданий с помощью технологий.
+* Дэвид Пирс, **[Гедонистический императив](https://hedweb-ru.github.io/hi/index.html)** — проект преодоления страданий с помощью технологий.
 
 ### На английском языке
 
@@ -38,8 +38,8 @@ title: "Reducing Suffering: ссылки"
 * **[Essays on Reducing Suffering](https://reducing-suffering.org/)** — сайт Брайана Томасика об уменьшении страданий (особенно страданий животных в дикой природе и потенциальных страданий искусственного интеллекта);
 * **[Suffering-Focused Ethics Resources](https://suffering-focused-ethics.surge.sh/)** — ресурсы по этике, сфокусированной на уменьшении страданий;
 * **[Animal Ethics](https://www.animal-ethics.org/)** — исследование способов уменьшить страдания животных в дикой природе;
-* **[Sentience Research](https://sentience-research.org/)** — исследование способности разных существ страдать;
 * **[Effective Altruism](https://www.effectivealtruism.org/)** — об эффективных способах сделать мир лучше;
+* **[Sentience Research](https://sentience-research.org/)** — исследование способности разных существ страдать;
 * **[Utilitarianism](https://www.utilitarianism.net/)** — об утилитарной этике;
 * **something relevant (or not)** ([ВКонтакте](https://vk.com/public195713045)) — наш склад материалов на разные темы.
 
