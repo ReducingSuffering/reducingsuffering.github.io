@@ -4,7 +4,7 @@ title: Черств ли негативный утилитаризм
 vk: https://vk.com/wall-199052526_522
 authors:
   - Дэвид Пирс
-original: https://www.hedweb.com/social-media/pre2014.html
+original: https://www.hedweb.com/
 original_date:
   - "2013"
 translated_by: К. Кирдан
