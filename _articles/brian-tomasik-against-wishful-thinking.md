@@ -9,6 +9,7 @@ original_date:
   - 2013.04.10
   - 2015.03.17
 math: true
+preview: assets/images/previews/e67c9c92-8556-4e1a-a39d-1df229e8ab75.jpg
 ---
 ## Аннотация
 
