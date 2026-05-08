@@ -171,4 +171,4 @@ _Можно ли_ просто взять и удалить боль? Или, у
 
 [^2]: George Orwell, «Why Socialists Don’t Believe in Fun», Tribune (December 1943). (В переводе: Джордж Оруэлл, «[Почему социалисты не верят в счастье](https://www.orwell.ru/library/articles/socialists/russian/r_fun)» — прим. пер.)
 
-[^3]: David Pearce, The Hedonistic Imperative, <http://www.hedweb.com/>, 1995. (В переводе: Дэвид Пирс, «[Гедонистический Императив](https://reducingsuffering.github.io/89.html)» — прим. пер.)
+[^3]: David Pearce, The Hedonistic Imperative, <http://www.hedweb.com/>, 1995. (В переводе: Дэвид Пирс, «[Гедонистический Императив](https://hedweb-ru.github.io/hi/index.html)» — прим. пер.)
