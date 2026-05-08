@@ -11,7 +11,7 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="article">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords:30 }}{% else %}{{ page.content | strip_html | truncatewords:30 }}{% endif %}">
-  <meta property="og:image" content="{% if page.preview_here %}{{ page.preview | absolute_url }}{% else %}{{ page.preview }}{% unless page.preview %}{{ "/assets/images/picture.png" | absolute_url }}{% endunless %}{% endif %}">
+  {% unless include.noimage %}<meta property="og:image" content="{% if page.preview_here %}{{ page.preview | absolute_url }}{% else %}{{ page.preview }}{% unless page.preview %}{{ "/assets/images/picture.png" | absolute_url }}{% endunless %}{% endif %}">{% endunless %}
 
   <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/picture.png' | relative_url }}">
   <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
