@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Необходимо ли страдание для счастья?"
+title: "Нужно ли страдать, чтобы быть счастливыми?"
 authors:
   - Дэвид Пирс
 original: https://www.hedweb.com
