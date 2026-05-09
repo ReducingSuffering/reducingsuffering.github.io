@@ -5,9 +5,9 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <meta property="og:title" content="{{ page.title }}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}">
+  <meta property="og:title" content="{% if include.author %}{{ include.author }}. {{ include.title }}{% if include.subtitle %}. {{ include.subtitle }}{% endif %}{% else %}{{ page.title }}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}{% endif %}">
   <meta property="og:locale" content="ru">
-  <meta property="og:site_name" content="Reducing Suffering">
+  <meta property="og:site_name" content="Уменьшение страданий">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="article">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords:30 }}{% else %}{{ page.content | strip_html | truncatewords:30 }}{% endif %}">
@@ -20,9 +20,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
   
-  <title>
-	{{ page.title }}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}{% if page.source %} | {{ page.source }}{% endif %}
-  </title>
+  <title>{% if include.author %}{{ include.author }}. {{ include.title }}{% if include.subtitle %}. {{ include.subtitle }}{% endif %}{% else %}{{ page.title }}{% if page.authors %} | {{ page.authors | join: ", " }}{% if page.source %} | {{ page.source }}{% endif %}{% endif %}{% endif %}</title>
   {% if page.url and site.baseurl %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% endif %}
