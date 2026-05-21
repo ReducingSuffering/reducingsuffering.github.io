@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Диалог о ремнях безопасности"
+title: "Неоднозначность последствий на примере ремней безопасности"
 authors:
   - Брайан Томасик
 original: https://longtermrisk.org/charity-cost-effectiveness-in-an-uncertain-world/#Introductory_dialogue
@@ -8,7 +8,7 @@ original_date:
   - 2013.10.28
   - 2015.12.04
 translated_by: К. Кирдан
-preview: assets/images/previews/
+preview: assets/images/previews/Vo2MzPLfqSiLbUppZEpa--0--mgVu5-.jpg
 ---
 (Это отрывок из статьи «[Charity Cost-Effectiveness in an Uncertain World](https://longtermrisk.org/charity-cost-effectiveness-in-an-uncertain-world)».)
 
