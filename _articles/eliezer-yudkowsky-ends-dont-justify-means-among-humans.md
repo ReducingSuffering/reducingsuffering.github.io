@@ -6,7 +6,6 @@ authors:
 original_date: 2008.10.15
 original: https://www.readthesequences.com/Ends-Dont-Justify-Means-Among-Humans
 translated_by: К. Кирдан
-edited_by: Александр Бидерман
 license:
   - CC BY-NC-SA 3.0
   - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru
