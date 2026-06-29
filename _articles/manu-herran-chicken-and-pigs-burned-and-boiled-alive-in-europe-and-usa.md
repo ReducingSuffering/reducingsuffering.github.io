@@ -26,4 +26,4 @@ telegram: https://t.me/reducing_suffering/286
 
 ---
 
-*. Facebook принадлежит Meta Platforms, которая в РФ признана "экстремистской" и запрещена — прим. пер.
+<small>*. Facebook принадлежит Meta Platforms, которая в РФ признана "экстремистской" и запрещена — прим. пер.</small>
