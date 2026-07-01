@@ -7,6 +7,7 @@ original: https://casparoesterheld.com/2016/08/08/lexicographic-utility-function
 original_date:
   - 2016.08.08
 translated_by: К. Кирдан
+hidden_comment: sep
 preview: assets/images/previews/9052fd91-65fa-4883-91c4-8d50c7bbd4a2.jpg
 ---
 Интуиции о том, что существуют экстремальные виды страданий, которые нельзя перевесить никаким количеством счастья и которые важнее любого количества лёгких страданий, — нарушают аксиому непрерывности в [теореме фон Неймана и Моргенштерна (vNM) о полезности](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem). Значит ли это, что если вы считаете (например, как [пороговые негативные утилитаристы](http://reducing-suffering.org/three-types-of-negative-utilitarianism/#Definitions)), что экстремальное страдание невозможно перевесить, то ваши предпочтения невозможно выразить с помощью функции полезности? Неужели вы не можете максимизировать ожидаемую полезность? Иррационально ли придерживаться таких предпочтений?
