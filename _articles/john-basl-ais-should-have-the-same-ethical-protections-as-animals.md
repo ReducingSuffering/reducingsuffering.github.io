@@ -36,4 +36,4 @@ preview: https://images.aeonmedia.co/images/f1f454b7-b46c-44f9-bf7b-ea6667b1adef
 
 ---
 
-*. Facebook принадлежит Meta Platforms, которая в РФ признана "экстремистской" и запрещена — прим. пер.
+<small>*. Facebook принадлежит Meta Platforms, которая в РФ признана "экстремистской" и запрещена — прим. пер.</small>
