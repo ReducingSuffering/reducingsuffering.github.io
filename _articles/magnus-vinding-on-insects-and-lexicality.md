@@ -5,7 +5,7 @@ subtitle: Стоит ли думать о насекомых, если преж�
 authors:
   - Магнус Виндинг
 translated_by: К. Кирдан
-translation_details: добавлены ссылки
+translation_details: добавлены ссылки и подзаголовок
 original: https://magnusvinding.com/2019/08/27/on-insects-and-lexicality/
 original_date: "2019.08.27"
 preview: https://i0.wp.com/magnusvinding.com/wp-content/uploads/2019/08/ladybug-beetle-insect-lucky-charm.jpg?fit=1400%2C955&ssl=1
