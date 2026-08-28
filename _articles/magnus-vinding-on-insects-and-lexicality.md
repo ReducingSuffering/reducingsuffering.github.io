@@ -9,6 +9,7 @@ translation_details: добавлены ссылки
 original: https://magnusvinding.com/2019/08/27/on-insects-and-lexicality/
 original_date: "2019.08.27"
 preview: https://i0.wp.com/magnusvinding.com/wp-content/uploads/2019/08/ladybug-beetle-insect-lucky-charm.jpg?fit=1400%2C955&ssl=1
+excerpt: "'Их переживания могут быть проще наших, но меньше ли их интенсивность? Может быть, примитивная боль раздавленной гусеницы сильнее наших более сложных страданий.' — Ричард Райдер"
 ---
 <center><img src="https://i0.wp.com/magnusvinding.com/wp-content/uploads/2019/08/ladybug-beetle-insect-lucky-charm.jpg?fit=1400%2C955&ssl=1"/></center>
 
