@@ -8,7 +8,7 @@ translation_details: чуть сокращено, добавлены ссылк�
 original: https://forum.effectivealtruism.org/posts/GDhXWw5AcZjhLJkzj/pausing-ai-is-the-only-safe-approach-to-digital-sentience
 original_date:
   - 2024.10.30
-preview: assets/images/previews/
+preview: assets/images/previews/mrwashingt0n-abstraction-10438928_1280.jpg
 excerpt: "Я вижу, что многие в эффективном альтруизме обсуждают тему цифровой сентиентности, фокусируясь на вопросе о том, будут ли люди признавать цифровых сентиентных существ моральными пациентами и относиться к ним соответствующим образом. Но это преждевременные вопросы. Мы ещё даже не знаем, будет ли опыт этих цифровых существ приемлемым _для них самих_ (и является ли таким сейчас, если он у них есть)."
 license: ["CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/deed.ru"]
 ---
