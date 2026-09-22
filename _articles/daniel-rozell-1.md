@@ -4,7 +4,7 @@ title: Неизвестные неизвестности
 authors:
   - Дэниел Розелл
 translated_by: К. Кирдан
-original: books.google.co.uz/books?id=9iTUDwAAQBAJ&pg=PA48&redir_esc=y#v=onepage&q&f=false
+original: https://books.google.co.uz/books?id=9iTUDwAAQBAJ&pg=PA48&redir_esc=y#v=onepage&q&f=false
 original_date:
   - 2020.02.04
 is_fragment: true
